@@ -1,0 +1,858 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"  xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 1920 1080">
+<g>
+	<path style="fill:#49BACE;" d="M1450,1086.619v-49.295l-42.543-24.708l-42.478,24.67l-42.7-24.67l-42.674,24.67L1237,1012.622
+		v-49.294l-42.791-24.708l-42.727,24.669L1109,938.624V889.33l-43-24.708V815.65l-42.998-24.709L980,815.649v49.361l-42.539,24.599
+		l-42.663-24.67L852,889.646v49.361l-42.631,24.6l-42.754-24.67l-42.781,24.67l-42.832-24.671L638,963.644v49.36l-42.443,24.598
+		L553,1012.937v-49.293l-42.756-24.709l-42.689,24.671l-42.734-24.671l-42.737,24.671l-42.744-24.671l-42.759,24.669l-42.787-24.669
+		l-42.844,24.669L168,938.941v-49.294l-42.553-24.708l-42.486,24.67l-42.697-24.67l-42.668,24.67l-40.492-23.447
+		c-0.24,2.575,14.382,227.034,14.382,227.034c21.513,4.618,247.905,12.331,333.977,9.499c69.488-2.286,139.072-0.856,208.465,3.292
+		c73.807,4.413,147.323,11.381,221.263,13.751c160.574,5.146,321.208-0.275,481.813,0.316
+		C1423.08,1120.812,1450,1086.619,1450,1086.619z"/>
+	<polygon style="fill:#49BACE;" points="1536,1037.483 1536,1086.899 1493,1111.607 1450,1086.899 1450,1037.483 1493,1012.775 	"/>
+	<polygon style="fill:#49BACE;" points="1622,1037.483 1622,1086.899 1579,1111.607 1536,1086.899 1536,1037.483 1579,1012.775 	"/>
+	<polygon style="fill:#49BACE;" points="1707,1038.483 1707,1087.899 1664,1112.607 1621,1087.899 1621,1038.483 1664,1013.775 	"/>
+	<polygon style="fill:#49BACE;" points="1792,1038.483 1792,1087.899 1749.5,1112.607 1707,1087.899 1707,1038.483 1749.5,1013.775 
+			"/>
+	<polygon style="fill:#49BACE;" points="1878,1038.483 1878,1087.899 1835,1112.607 1792,1087.899 1792,1038.483 1835,1013.774 	"/>
+	<polygon style="fill:#49BACE;" points="1921,964.35 1921,1013.766 1878,1038.474 1835,1013.766 1835,964.35 1878,939.642 	"/>
+	<polygon style="fill:#49BACE;" points="1834.997,964.351 1834.997,1013.767 1791.997,1038.474 1748.997,1013.767 1748.997,964.351 
+		1791.997,939.642 	"/>
+	<polygon style="fill:#49BACE;" points="1963,1038.483 1963,1087.899 1920.5,1112.607 1878,1087.899 1878,1038.483 1920.5,1013.774 
+			"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-miterlimit:10;" points="680.5,889.021 680.5,938.438 638,963.146 595.5,938.438 
+		595.5,889.021 638,864.313 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-miterlimit:10;" points="766.5,889.021 766.5,938.438 723.5,963.146 
+		680.5,938.438 680.5,889.021 723.5,864.313 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-miterlimit:10;" points="723.5,814.402 723.5,863.82 681,888.528 638.5,863.82 
+		638.5,814.402 681,789.694 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-miterlimit:10;" points="44.5,595.729 44.5,645.147 2,669.855 -40.5,645.147 
+		-40.5,595.729 2,571.021 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-miterlimit:10;" points="221.258,271.727 221.258,321.145 178.758,345.853 
+		136.258,321.145 136.258,271.727 178.758,247.019 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-miterlimit:10;" points="1863.5,470.31 1863.5,519.727 1820.5,544.435 
+		1777.5,519.727 1777.5,470.31 1820.5,445.602 	"/>
+</g>
+<g style="opacity:0.15;">
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="49.336,384.566 66.891,430.759 
+		35.664,469.059 -13.119,461.165 -30.674,414.971 0.555,376.672 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="129.222,354.206 146.777,400.4 
+		115.549,438.699 66.768,430.806 49.213,384.612 80.439,346.313 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="209.107,323.848 226.662,370.042 
+		195.436,408.341 146.653,400.447 129.098,354.254 160.326,315.954 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="288.993,293.489 306.549,339.683 
+		275.321,377.982 226.539,370.087 208.984,323.895 240.211,285.595 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="368.88,263.13 386.434,309.324 
+		355.207,347.624 306.425,339.728 288.87,293.536 320.098,255.236 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="448.766,232.77 466.32,278.965 
+		435.094,317.264 386.31,309.37 368.756,263.177 399.982,224.878 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="528.65,202.412 546.206,248.606 
+		514.979,286.905 466.197,279.011 448.643,232.818 479.869,194.519 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="608.537,172.052 626.093,218.248 
+		594.865,256.546 546.083,248.652 528.528,202.458 559.756,164.159 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="688.424,141.694 705.979,187.888 
+		674.752,226.188 625.969,218.293 608.414,172.1 639.642,133.801 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="768.309,111.335 785.864,157.529 
+		754.637,195.83 705.854,187.934 688.3,141.741 719.527,103.442 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="35.732,468.896 53.287,515.089 
+		22.06,553.39 -26.722,545.495 -44.276,499.302 -13.049,461.003 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="115.619,438.537 133.174,484.73 
+		101.946,523.031 53.164,515.136 35.609,468.943 66.837,430.644 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="195.505,408.178 213.06,454.372 
+		181.832,492.671 133.051,484.777 115.496,438.583 146.723,400.285 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="275.391,377.819 292.945,424.012 
+		261.719,462.313 212.936,454.418 195.381,408.225 226.609,369.926 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="355.276,347.46 372.831,393.653 
+		341.604,431.954 292.822,424.06 275.268,377.867 306.495,339.567 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="435.162,317.102 452.717,363.294 
+		421.49,401.595 372.708,393.7 355.154,347.507 386.381,309.207 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="515.049,286.743 532.602,332.935 
+		501.377,371.236 452.594,363.341 435.039,317.148 466.266,278.849 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="594.934,256.385 612.489,302.577 
+		581.263,340.876 532.479,332.982 514.926,286.79 546.152,248.49 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="674.82,226.025 692.375,272.218 
+		661.148,310.518 612.366,302.624 594.812,256.431 626.039,218.131 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="754.707,195.665 772.261,241.859 
+		741.033,280.159 692.252,272.265 674.697,226.073 705.924,187.772 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="22.13,553.227 39.685,599.419 
+		8.457,637.719 -40.324,629.826 -57.879,583.632 -26.652,545.333 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="102.016,522.867 119.57,569.06 
+		88.344,607.36 39.562,599.467 22.007,553.273 53.234,514.974 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="181.901,492.509 199.456,538.701 
+		168.229,577.001 119.447,569.107 101.893,522.914 133.119,484.615 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="261.788,462.15 279.343,508.343 
+		248.115,546.642 199.333,538.748 181.778,492.556 213.006,454.256 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="341.674,431.79 359.228,477.984 
+		328.002,516.283 279.219,508.39 261.664,462.197 292.892,423.897 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="421.56,401.432 439.114,447.624 
+		407.887,485.924 359.104,478.031 341.551,431.837 372.777,393.537 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="501.445,371.073 519,417.266 
+		487.773,455.565 438.991,447.672 421.435,401.478 452.664,363.178 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="581.332,340.714 598.887,386.907 
+		567.659,425.206 518.877,417.313 501.322,371.12 532.549,332.819 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="661.217,310.354 678.771,356.548 
+		647.545,394.847 598.764,386.954 581.209,340.761 612.435,302.46 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="741.104,279.996 758.658,326.189 
+		727.431,364.489 678.648,356.595 661.094,310.402 692.321,272.102 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="8.527,637.557 26.082,683.75 
+		-5.146,722.049 -53.928,714.155 -71.482,667.962 -40.256,629.662 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="88.413,607.198 105.968,653.391 
+		74.74,691.69 25.958,683.797 8.403,637.602 39.631,599.304 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="168.299,576.839 185.854,623.032 
+		154.627,661.331 105.844,653.438 88.289,607.244 119.517,568.944 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="248.186,546.48 265.74,592.673 
+		234.512,630.972 185.73,623.079 168.175,576.885 199.402,538.585 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="328.07,516.121 345.625,562.315 
+		314.398,600.613 265.615,592.72 248.061,546.526 279.288,508.226 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="407.956,485.763 425.511,531.956 
+		394.283,570.254 345.502,562.361 327.947,516.168 359.174,477.867 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="487.842,455.403 505.397,501.596 
+		474.17,539.896 425.388,532.002 407.833,485.81 439.06,447.508 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="567.729,425.044 585.283,471.237 
+		554.057,509.537 505.274,501.643 487.719,455.449 518.946,417.15 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="647.614,394.685 665.168,440.879 
+		633.941,479.178 585.16,471.284 567.606,425.091 598.832,386.79 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="727.5,364.327 745.055,410.52 
+		713.828,448.819 665.046,440.925 647.491,394.732 678.717,356.432 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="49.336,384.566 66.891,430.759 
+		35.664,469.059 -13.119,461.165 -30.674,414.971 0.555,376.672 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="129.222,354.206 146.777,400.4 
+		115.549,438.699 66.768,430.806 49.213,384.612 80.439,346.313 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="209.107,323.848 226.662,370.042 
+		195.436,408.341 146.653,400.447 129.098,354.254 160.326,315.954 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="288.993,293.489 306.549,339.683 
+		275.321,377.982 226.539,370.087 208.984,323.895 240.211,285.595 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="368.88,263.13 386.434,309.324 
+		355.207,347.624 306.425,339.728 288.87,293.536 320.098,255.236 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="448.766,232.77 466.32,278.965 
+		435.094,317.264 386.31,309.37 368.756,263.177 399.982,224.878 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="528.65,202.412 546.206,248.606 
+		514.979,286.905 466.197,279.011 448.643,232.818 479.869,194.519 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="608.537,172.052 626.093,218.248 
+		594.865,256.546 546.083,248.652 528.528,202.458 559.756,164.159 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="688.424,141.694 705.979,187.888 
+		674.752,226.188 625.969,218.293 608.414,172.1 639.642,133.801 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="768.309,111.335 785.864,157.529 
+		754.637,195.83 705.854,187.934 688.3,141.741 719.527,103.442 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="35.732,468.896 53.287,515.089 
+		22.06,553.39 -26.722,545.495 -44.276,499.302 -13.049,461.003 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="115.619,438.537 133.174,484.73 
+		101.946,523.031 53.164,515.136 35.609,468.943 66.837,430.644 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="195.505,408.178 213.06,454.372 
+		181.832,492.671 133.051,484.777 115.496,438.583 146.723,400.285 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="275.391,377.819 292.945,424.012 
+		261.719,462.313 212.936,454.418 195.381,408.225 226.609,369.926 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="355.276,347.46 372.831,393.653 
+		341.604,431.954 292.822,424.06 275.268,377.867 306.495,339.567 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="435.162,317.102 452.717,363.294 
+		421.49,401.595 372.708,393.7 355.154,347.507 386.381,309.207 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="515.049,286.743 532.602,332.935 
+		501.377,371.236 452.594,363.341 435.039,317.148 466.266,278.849 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="594.934,256.385 612.489,302.577 
+		581.263,340.876 532.479,332.982 514.926,286.79 546.152,248.49 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="674.82,226.025 692.375,272.218 
+		661.148,310.518 612.366,302.624 594.812,256.431 626.039,218.131 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="754.707,195.665 772.261,241.859 
+		741.033,280.159 692.252,272.265 674.697,226.073 705.924,187.772 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="22.13,553.227 39.685,599.419 
+		8.457,637.719 -40.324,629.826 -57.879,583.632 -26.652,545.333 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="102.016,522.867 119.57,569.06 
+		88.344,607.36 39.562,599.467 22.007,553.273 53.234,514.974 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="181.901,492.509 199.456,538.701 
+		168.229,577.001 119.447,569.107 101.893,522.914 133.119,484.615 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="261.788,462.15 279.343,508.343 
+		248.115,546.642 199.333,538.748 181.778,492.556 213.006,454.256 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="341.674,431.79 359.228,477.984 
+		328.002,516.283 279.219,508.39 261.664,462.197 292.892,423.897 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="421.56,401.432 439.114,447.624 
+		407.887,485.924 359.104,478.031 341.551,431.837 372.777,393.537 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="501.445,371.073 519,417.266 
+		487.773,455.565 438.991,447.672 421.435,401.478 452.664,363.178 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="581.332,340.714 598.887,386.907 
+		567.659,425.206 518.877,417.313 501.322,371.12 532.549,332.819 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="661.217,310.354 678.771,356.548 
+		647.545,394.847 598.764,386.954 581.209,340.761 612.435,302.46 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="741.104,279.996 758.658,326.189 
+		727.431,364.489 678.648,356.595 661.094,310.402 692.321,272.102 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="8.527,637.557 26.082,683.75 
+		-5.146,722.049 -53.928,714.155 -71.482,667.962 -40.256,629.662 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="88.413,607.198 105.968,653.391 
+		74.74,691.69 25.958,683.797 8.403,637.602 39.631,599.304 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="168.299,576.839 185.854,623.032 
+		154.627,661.331 105.844,653.438 88.289,607.244 119.517,568.944 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="248.186,546.48 265.74,592.673 
+		234.512,630.972 185.73,623.079 168.175,576.885 199.402,538.585 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="328.07,516.121 345.625,562.315 
+		314.398,600.613 265.615,592.72 248.061,546.526 279.288,508.226 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="407.956,485.763 425.511,531.956 
+		394.283,570.254 345.502,562.361 327.947,516.168 359.174,477.867 	"/>
+	<g>
+		<polygon style="fill:none;" points="487.842,455.403 505.397,501.596 474.17,539.896 425.388,532.002 407.833,485.81 
+			439.06,447.508 		"/>
+	</g>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="567.729,425.044 585.283,471.237 
+		554.057,509.537 505.274,501.643 487.719,455.449 518.946,417.15 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="647.614,394.685 665.168,440.879 
+		633.941,479.178 585.16,471.284 567.606,425.091 598.832,386.79 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="727.5,364.327 745.055,410.52 
+		713.828,448.819 665.046,440.925 647.491,394.732 678.717,356.432 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="848.089,80.679 865.644,126.872 
+		834.416,165.171 785.635,157.277 768.08,111.084 799.307,72.785 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="927.975,50.319 945.529,96.513 
+		914.303,134.813 865.519,126.918 847.965,80.726 879.192,42.426 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1007.86,19.96 1025.415,66.154 
+		994.188,104.454 945.406,96.56 927.852,50.367 959.079,12.067 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1087.746,-10.398 1105.301,35.795 
+		1074.074,74.095 1025.293,66.2 1007.736,20.007 1038.965,-18.293 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1167.632,-40.757 1185.186,5.435 
+		1153.96,43.736 1105.178,35.841 1087.623,-10.352 1118.85,-48.651 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1247.518,-71.115 1265.072,-24.922 
+		1233.846,13.377 1185.063,5.482 1167.509,-40.71 1198.736,-79.009 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="834.485,165.009 852.04,211.202 
+		820.813,249.5 772.031,241.607 754.477,195.414 785.703,157.115 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="914.371,134.65 931.926,180.843 
+		900.699,219.143 851.918,211.248 834.362,165.055 865.59,126.757 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="994.258,104.29 1011.813,150.484 
+		980.586,188.783 931.803,180.89 914.248,134.697 945.476,96.396 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1074.144,73.932 1091.698,120.126 
+		1060.471,158.424 1011.69,150.531 994.133,104.338 1025.361,66.038 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1154.029,43.574 1171.584,89.766 
+		1140.357,128.066 1091.575,120.172 1074.02,73.978 1105.248,35.679 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1233.916,13.215 1251.471,59.407 
+		1220.242,97.706 1171.461,89.812 1153.906,43.62 1185.133,5.321 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1313.801,-17.144 1331.355,29.048 
+		1300.129,67.348 1251.348,59.454 1233.793,13.261 1265.02,-25.038 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1393.688,-47.502 1411.242,-1.31 
+		1380.014,36.989 1331.232,29.095 1313.678,-17.098 1344.905,-55.398 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1473.573,-77.862 1491.128,-31.669 
+		1459.9,6.63 1411.119,-1.264 1393.564,-47.458 1424.791,-85.756 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="820.881,249.339 838.435,295.532 
+		807.21,333.831 758.428,325.938 740.873,279.744 772.101,241.444 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="900.769,218.98 918.323,265.173 
+		887.096,303.472 838.315,295.58 820.759,249.385 851.986,211.086 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="980.654,188.622 998.209,234.814 
+		966.982,273.113 918.199,265.22 900.644,219.026 931.873,180.727 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1060.54,158.262 1078.096,204.456 
+		1046.867,242.755 998.086,234.861 980.531,188.668 1011.758,150.368 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1140.426,127.903 1157.98,174.097 
+		1126.754,212.395 1077.972,204.502 1060.418,158.31 1091.644,120.009 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1220.313,97.544 1237.867,143.738 
+		1206.64,182.037 1157.857,174.144 1140.303,127.95 1171.529,89.65 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1300.197,67.185 1317.752,113.379 
+		1286.525,151.677 1237.744,143.784 1220.188,97.591 1251.416,59.29 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1380.084,36.827 1397.64,83.019 
+		1366.411,121.319 1317.631,113.425 1300.075,67.232 1331.301,28.932 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1459.969,6.467 1477.524,52.661 
+		1446.298,90.96 1397.516,83.067 1379.961,36.873 1411.188,-1.427 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1539.856,-23.892 1557.411,22.302 
+		1526.184,60.602 1477.402,52.707 1459.848,6.515 1491.074,-31.785 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1619.742,-54.25 1637.297,-8.057 
+		1606.068,30.243 1557.288,22.349 1539.732,-23.845 1570.96,-62.144 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="807.279,333.668 824.834,379.863 
+		793.607,418.162 744.825,410.268 727.269,364.074 758.497,325.774 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="887.165,303.31 904.721,349.504 
+		873.493,387.803 824.711,379.909 807.156,333.715 838.383,295.415 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="967.051,272.951 984.606,319.145 
+		953.379,357.444 904.597,349.549 887.041,303.356 918.269,265.057 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1046.936,242.591 1064.492,288.786 
+		1033.265,327.085 984.482,319.19 966.928,272.998 998.155,234.698 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1126.822,212.233 1144.377,258.427 
+		1113.15,296.726 1064.369,288.831 1046.814,242.639 1078.041,204.339 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1206.709,181.873 1224.264,228.068 
+		1193.037,266.367 1144.254,258.473 1126.699,212.279 1157.927,173.98 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1286.596,151.515 1304.15,197.708 
+		1272.923,236.008 1224.141,228.114 1206.586,181.92 1237.813,143.622 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1366.48,121.156 1384.035,167.35 
+		1352.809,205.65 1304.026,197.755 1286.472,151.561 1317.699,113.263 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1446.367,90.796 1463.923,136.991 
+		1432.694,175.29 1383.912,167.395 1366.357,121.203 1397.586,82.903 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1526.252,60.438 1543.808,106.632 
+		1512.581,144.932 1463.798,137.037 1446.243,90.844 1477.472,52.544 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1606.139,30.08 1623.694,76.274 
+		1592.465,114.573 1543.685,106.679 1526.13,60.485 1557.356,22.185 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1686.024,-0.28 1703.58,45.915 
+		1672.352,84.214 1623.57,76.319 1606.016,30.126 1637.243,-8.173 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1765.911,-30.639 1783.467,15.556 
+		1752.236,53.854 1703.457,45.96 1685.902,-0.232 1717.128,-38.531 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1845.797,-60.998 1863.352,-14.803 
+		1832.125,23.496 1783.342,15.602 1765.787,-30.592 1797.014,-68.892 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="848.089,80.679 865.644,126.872 
+		834.416,165.171 785.635,157.277 768.08,111.084 799.307,72.785 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="927.975,50.319 945.529,96.513 
+		914.303,134.813 865.519,126.918 847.965,80.726 879.192,42.426 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1007.86,19.96 1025.415,66.154 
+		994.188,104.454 945.406,96.56 927.852,50.367 959.079,12.067 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1087.746,-10.398 1105.301,35.795 
+		1074.074,74.095 1025.293,66.2 1007.736,20.007 1038.965,-18.293 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1167.632,-40.757 1185.186,5.435 
+		1153.96,43.736 1105.178,35.841 1087.623,-10.352 1118.85,-48.651 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1247.518,-71.115 1265.072,-24.922 
+		1233.846,13.377 1185.063,5.482 1167.509,-40.71 1198.736,-79.009 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="834.485,165.009 852.04,211.202 
+		820.813,249.5 772.031,241.607 754.477,195.414 785.703,157.115 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="914.371,134.65 931.926,180.843 
+		900.699,219.143 851.918,211.248 834.362,165.055 865.59,126.757 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="994.258,104.29 1011.813,150.484 
+		980.586,188.783 931.803,180.89 914.248,134.697 945.476,96.396 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1074.144,73.932 1091.698,120.126 
+		1060.471,158.424 1011.69,150.531 994.133,104.338 1025.361,66.038 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1154.029,43.574 1171.584,89.766 
+		1140.357,128.066 1091.575,120.172 1074.02,73.978 1105.248,35.679 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1233.916,13.215 1251.471,59.407 
+		1220.242,97.706 1171.461,89.812 1153.906,43.62 1185.133,5.321 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1313.801,-17.144 1331.355,29.048 
+		1300.129,67.348 1251.348,59.454 1233.793,13.261 1265.02,-25.038 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1393.688,-47.502 1411.242,-1.31 
+		1380.014,36.989 1331.232,29.095 1313.678,-17.098 1344.905,-55.398 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1473.573,-77.862 1491.128,-31.669 
+		1459.9,6.63 1411.119,-1.264 1393.564,-47.458 1424.791,-85.756 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="820.881,249.339 838.435,295.532 
+		807.21,333.831 758.428,325.938 740.873,279.744 772.101,241.444 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="900.769,218.98 918.323,265.173 
+		887.096,303.472 838.315,295.58 820.759,249.385 851.986,211.086 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="980.654,188.622 998.209,234.814 
+		966.982,273.113 918.199,265.22 900.644,219.026 931.873,180.727 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1060.54,158.262 1078.096,204.456 
+		1046.867,242.755 998.086,234.861 980.531,188.668 1011.758,150.368 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1140.426,127.903 1157.98,174.097 
+		1126.754,212.395 1077.972,204.502 1060.418,158.31 1091.644,120.009 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1220.313,97.544 1237.867,143.738 
+		1206.64,182.037 1157.857,174.144 1140.303,127.95 1171.529,89.65 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1300.197,67.185 1317.752,113.379 
+		1286.525,151.677 1237.744,143.784 1220.188,97.591 1251.416,59.29 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1380.084,36.827 1397.64,83.019 
+		1366.411,121.319 1317.631,113.425 1300.075,67.232 1331.301,28.932 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1459.969,6.467 1477.524,52.661 
+		1446.298,90.96 1397.516,83.067 1379.961,36.873 1411.188,-1.427 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1539.856,-23.892 1557.411,22.302 
+		1526.184,60.602 1477.402,52.707 1459.848,6.515 1491.074,-31.785 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1619.742,-54.25 1637.297,-8.057 
+		1606.068,30.243 1557.288,22.349 1539.732,-23.845 1570.96,-62.144 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="24.065,77.498 41.619,123.692 
+		10.393,161.991 -38.39,154.097 -55.944,107.903 -24.717,69.603 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="103.95,47.14 121.506,93.334 
+		90.278,131.632 41.496,123.738 23.941,77.544 55.168,39.245 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="183.836,16.781 201.392,62.974 
+		170.164,101.274 121.381,93.379 103.827,47.185 135.055,8.887 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="263.723,-13.579 281.277,32.615 
+		250.051,70.915 201.268,63.02 183.713,16.827 214.94,-21.473 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="343.608,-43.939 361.164,2.257 
+		329.935,40.556 281.154,32.661 263.6,-13.531 294.826,-51.832 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="423.494,-74.296 441.049,-28.102 
+		409.822,10.197 361.04,2.303 343.484,-43.891 374.713,-82.19 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="10.462,161.828 28.017,208.022 
+		-3.211,246.322 -51.992,238.427 -69.547,192.234 -38.32,153.936 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="90.348,131.469 107.902,177.663 
+		76.676,215.963 27.893,208.068 10.339,161.875 41.565,123.576 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="170.233,101.111 187.789,147.304 
+		156.561,185.604 107.779,177.71 90.225,131.518 121.451,93.217 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="250.119,70.752 267.674,116.945 
+		236.447,155.245 187.664,147.351 170.11,101.158 201.338,62.858 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="330.006,40.394 347.56,86.586 
+		316.333,124.887 267.551,116.992 249.996,70.799 281.224,32.499 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="409.892,10.035 427.445,56.227 
+		396.219,94.527 347.435,86.633 329.883,40.44 361.109,2.141 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="489.777,-20.325 507.332,25.868 
+		476.105,64.168 427.322,56.274 409.768,10.081 440.996,-28.219 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="569.664,-50.684 587.219,-4.491 
+		555.99,33.81 507.209,25.915 489.654,-20.277 520.881,-58.577 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="649.549,-81.043 667.104,-34.85 
+		635.877,3.45 587.095,-4.444 569.54,-50.637 600.768,-88.936 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="-3.142,246.159 14.413,292.352 
+		-16.815,330.651 -65.596,322.757 -83.15,276.564 -51.924,238.265 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="76.744,215.801 94.299,261.993 
+		63.072,300.292 14.29,292.398 -3.266,246.206 27.963,207.906 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="156.631,185.441 174.186,231.634 
+		142.958,269.933 94.176,262.04 76.621,215.847 107.849,177.547 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="236.517,155.081 254.071,201.275 
+		222.844,239.575 174.063,231.681 156.507,185.487 187.734,147.188 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="316.402,124.724 333.957,170.915 
+		302.73,209.215 253.947,201.322 236.393,155.128 267.62,116.83 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="396.289,94.365 413.844,140.557 
+		382.615,178.856 333.834,170.963 316.279,124.77 347.506,86.469 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="476.175,64.006 493.729,110.199 
+		462.502,148.498 413.721,140.604 396.166,94.412 427.393,56.111 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="556.06,33.646 573.615,79.839 
+		542.388,118.139 493.605,110.245 476.051,64.052 507.278,25.752 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="635.946,3.288 653.502,49.48 
+		622.273,87.781 573.492,79.887 555.935,33.694 587.164,-4.606 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="24.065,77.498 41.619,123.692 
+		10.393,161.991 -38.39,154.097 -55.944,107.903 -24.717,69.603 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="103.95,47.14 121.506,93.334 
+		90.278,131.632 41.496,123.738 23.941,77.544 55.168,39.245 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="183.836,16.781 201.392,62.974 
+		170.164,101.274 121.381,93.379 103.827,47.185 135.055,8.887 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="263.723,-13.579 281.277,32.615 
+		250.051,70.915 201.268,63.02 183.713,16.827 214.94,-21.473 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="343.608,-43.939 361.164,2.257 
+		329.935,40.556 281.154,32.661 263.6,-13.531 294.826,-51.832 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="423.494,-74.296 441.049,-28.102 
+		409.822,10.197 361.04,2.303 343.484,-43.891 374.713,-82.19 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="10.462,161.828 28.017,208.022 
+		-3.211,246.322 -51.992,238.427 -69.547,192.234 -38.32,153.936 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="90.348,131.469 107.902,177.663 
+		76.676,215.963 27.893,208.068 10.339,161.875 41.565,123.576 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="170.233,101.111 187.789,147.304 
+		156.561,185.604 107.779,177.71 90.225,131.518 121.451,93.217 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="250.119,70.752 267.674,116.945 
+		236.447,155.245 187.664,147.351 170.11,101.158 201.338,62.858 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="330.006,40.394 347.56,86.586 
+		316.333,124.887 267.551,116.992 249.996,70.799 281.224,32.499 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="409.892,10.035 427.445,56.227 
+		396.219,94.527 347.435,86.633 329.883,40.44 361.109,2.141 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="489.777,-20.325 507.332,25.868 
+		476.105,64.168 427.322,56.274 409.768,10.081 440.996,-28.219 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="569.664,-50.684 587.219,-4.491 
+		555.99,33.81 507.209,25.915 489.654,-20.277 520.881,-58.577 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="649.549,-81.043 667.104,-34.85 
+		635.877,3.45 587.095,-4.444 569.54,-50.637 600.768,-88.936 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="-3.142,246.159 14.413,292.352 
+		-16.815,330.651 -65.596,322.757 -83.15,276.564 -51.924,238.265 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="76.744,215.801 94.299,261.993 
+		63.072,300.292 14.29,292.398 -3.266,246.206 27.963,207.906 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="156.631,185.441 174.186,231.634 
+		142.958,269.933 94.176,262.04 76.621,215.847 107.849,177.547 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="236.517,155.081 254.071,201.275 
+		222.844,239.575 174.063,231.681 156.507,185.487 187.734,147.188 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="316.402,124.724 333.957,170.915 
+		302.73,209.215 253.947,201.322 236.393,155.128 267.62,116.83 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="396.289,94.365 413.844,140.557 
+		382.615,178.856 333.834,170.963 316.279,124.77 347.506,86.469 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="476.175,64.006 493.729,110.199 
+		462.502,148.498 413.721,140.604 396.166,94.412 427.393,56.111 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="556.06,33.646 573.615,79.839 
+		542.388,118.139 493.605,110.245 476.051,64.052 507.278,25.752 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="635.946,3.288 653.502,49.48 
+		622.273,87.781 573.492,79.887 555.935,33.694 587.164,-4.606 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="715.725,-27.37 733.279,18.824 
+		702.053,57.123 653.271,49.23 635.716,3.036 666.943,-35.264 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="795.611,-57.73 813.166,-11.535 
+		781.94,26.764 733.156,18.871 715.602,-27.323 746.83,-65.624 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="715.725,-27.37 733.279,18.824 
+		702.053,57.123 653.271,49.23 635.716,3.036 666.943,-35.264 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="795.611,-57.73 813.166,-11.535 
+		781.94,26.764 733.156,18.871 715.602,-27.323 746.83,-65.624 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="807.279,333.668 824.834,379.863 
+		793.607,418.162 744.825,410.268 727.269,364.074 758.497,325.774 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="887.165,303.31 904.721,349.504 
+		873.493,387.803 824.711,379.909 807.156,333.715 838.383,295.415 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="967.051,272.951 984.606,319.145 
+		953.379,357.444 904.597,349.549 887.041,303.356 918.269,265.057 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1046.936,242.591 1064.492,288.786 
+		1033.265,327.085 984.482,319.19 966.928,272.998 998.155,234.698 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1126.822,212.233 1144.377,258.427 
+		1113.15,296.726 1064.369,288.831 1046.814,242.639 1078.041,204.339 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1206.709,181.873 1224.264,228.068 
+		1193.037,266.367 1144.254,258.473 1126.699,212.279 1157.927,173.98 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1286.596,151.515 1304.15,197.708 
+		1272.923,236.008 1224.141,228.114 1206.586,181.92 1237.813,143.622 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1366.48,121.156 1384.035,167.35 
+		1352.809,205.65 1304.026,197.755 1286.472,151.561 1317.699,113.263 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1446.367,90.796 1463.923,136.991 
+		1432.694,175.29 1383.912,167.395 1366.357,121.203 1397.586,82.903 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1526.252,60.438 1543.808,106.632 
+		1512.581,144.932 1463.798,137.037 1446.243,90.844 1477.472,52.544 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1606.139,30.08 1623.694,76.274 
+		1592.465,114.573 1543.685,106.679 1526.13,60.485 1557.356,22.185 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1686.024,-0.28 1703.58,45.915 
+		1672.352,84.214 1623.57,76.319 1606.016,30.126 1637.243,-8.173 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1765.911,-30.639 1783.467,15.556 
+		1752.236,53.854 1703.457,45.96 1685.902,-0.232 1717.128,-38.531 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1845.797,-60.998 1863.352,-14.803 
+		1832.125,23.496 1783.342,15.602 1765.787,-30.592 1797.014,-68.892 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="37.828,-7.049 55.383,39.144 
+		24.155,77.442 -24.627,69.549 -42.182,23.354 -10.954,-14.944 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="117.714,-37.409 135.269,8.785 
+		104.041,47.083 55.26,39.19 37.704,-7.004 68.932,-45.303 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="197.6,-67.768 215.154,-21.574 
+		183.928,16.726 135.145,8.831 117.59,-37.361 148.817,-75.662 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="37.828,-7.049 55.383,39.144 
+		24.155,77.442 -24.627,69.549 -42.182,23.354 -10.954,-14.944 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="117.714,-37.409 135.269,8.785 
+		104.041,47.083 55.26,39.19 37.704,-7.004 68.932,-45.303 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="197.6,-67.768 215.154,-21.574 
+		183.928,16.726 135.145,8.831 117.59,-37.361 148.817,-75.662 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="-16.699,330.608 0.856,376.801 
+		-30.371,415.102 -79.153,407.206 -96.709,361.013 -65.482,322.714 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="63.187,300.249 80.742,346.442 
+		49.514,384.743 0.732,376.849 -16.822,330.655 14.404,292.354 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="143.073,269.89 160.628,316.083 
+		129.4,354.383 80.619,346.489 63.063,300.295 94.291,261.996 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="222.959,239.531 240.514,285.726 
+		209.285,324.024 160.505,316.13 142.949,269.935 174.177,231.637 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="302.844,209.173 320.398,255.367 
+		289.172,293.665 240.391,285.772 222.836,239.578 254.063,201.278 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="382.73,178.814 400.285,225.007 
+		369.059,263.307 320.276,255.414 302.721,209.219 333.947,170.919 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="462.617,148.455 480.172,194.648 
+		448.944,232.947 400.162,225.054 382.607,178.861 413.834,140.56 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="542.502,118.096 560.058,164.29 
+		528.83,202.588 480.049,194.695 462.494,148.502 493.721,110.201 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="622.389,87.737 639.943,133.931 
+		608.716,172.23 559.934,164.336 542.379,118.143 573.606,79.843 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="-16.699,330.608 0.856,376.801 
+		-30.371,415.102 -79.153,407.206 -96.709,361.013 -65.482,322.714 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="63.187,300.249 80.742,346.442 
+		49.514,384.743 0.732,376.849 -16.822,330.655 14.404,292.354 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="143.073,269.89 160.628,316.083 
+		129.4,354.383 80.619,346.489 63.063,300.295 94.291,261.996 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="222.959,239.531 240.514,285.726 
+		209.285,324.024 160.505,316.13 142.949,269.935 174.177,231.637 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="302.844,209.173 320.398,255.367 
+		289.172,293.665 240.391,285.772 222.836,239.578 254.063,201.278 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="382.73,178.814 400.285,225.007 
+		369.059,263.307 320.276,255.414 302.721,209.219 333.947,170.919 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="462.617,148.455 480.172,194.648 
+		448.944,232.947 400.162,225.054 382.607,178.861 413.834,140.56 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="542.502,118.096 560.058,164.29 
+		528.83,202.588 480.049,194.695 462.494,148.502 493.721,110.201 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="622.389,87.737 639.943,133.931 
+		608.716,172.23 559.934,164.336 542.379,118.143 573.606,79.843 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="702.168,57.08 719.723,103.274 
+		688.495,141.573 639.713,133.679 622.158,87.484 653.385,49.185 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="782.053,26.72 799.608,72.915 
+		768.381,111.214 719.598,103.319 702.044,57.126 733.271,18.827 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="861.94,-3.639 879.494,42.555 
+		848.268,80.854 799.485,72.96 781.93,26.768 813.157,-11.533 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="941.825,-33.998 959.381,12.197 
+		928.152,50.496 879.371,42.602 861.816,-3.592 893.043,-41.892 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1021.711,-64.356 1039.266,-18.162 
+		1008.039,20.137 959.257,12.243 941.701,-33.951 972.93,-72.25 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="702.168,57.08 719.723,103.274 
+		688.495,141.573 639.713,133.679 622.158,87.484 653.385,49.185 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="782.053,26.72 799.608,72.915 
+		768.381,111.214 719.598,103.319 702.044,57.126 733.271,18.827 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="861.94,-3.639 879.494,42.555 
+		848.268,80.854 799.485,72.96 781.93,26.768 813.157,-11.533 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="941.825,-33.998 959.381,12.197 
+		928.152,50.496 879.371,42.602 861.816,-3.592 893.043,-41.892 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1021.711,-64.356 1039.266,-18.162 
+		1008.039,20.137 959.257,12.243 941.701,-33.951 972.93,-72.25 	"/>
+</g>
+<g style="opacity:0.08;">
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1968.906,1068.131 1986.461,1114.325 
+		1955.234,1152.625 1906.451,1144.73 1888.896,1098.537 1920.125,1060.238 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1968.906,1068.131 1986.461,1114.325 
+		1955.234,1152.625 1906.451,1144.73 1888.896,1098.537 1920.125,1060.238 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1064.996,1095.31 1082.551,1141.504 
+		1051.324,1179.803 1002.543,1171.909 984.986,1125.715 1016.215,1087.417 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1144.881,1064.951 1162.436,1111.145 
+		1131.21,1149.444 1082.428,1141.55 1064.873,1095.357 1096.101,1057.058 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1224.768,1034.593 1242.323,1080.786 
+		1211.096,1119.086 1162.313,1111.191 1144.759,1064.998 1175.986,1026.699 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1304.654,1004.233 1322.209,1050.427 
+		1290.982,1088.727 1242.199,1080.833 1224.645,1034.64 1255.872,996.339 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1384.54,973.875 1402.096,1020.069 
+		1370.867,1058.368 1322.086,1050.474 1304.531,1004.281 1335.758,965.98 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1464.426,943.516 1481.98,989.71 
+		1450.754,1028.009 1401.972,1020.115 1384.416,973.921 1415.644,935.622 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1544.312,913.156 1561.867,959.351 
+		1530.641,997.65 1481.857,989.755 1464.303,943.563 1495.53,905.263 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1624.197,882.798 1641.752,928.992 
+		1610.525,967.29 1561.744,959.396 1544.189,913.203 1575.416,874.904 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1704.084,852.438 1721.639,898.633 
+		1690.412,936.932 1641.629,929.038 1624.074,882.844 1655.301,844.545 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1291.051,1088.564 1308.605,1134.757 
+		1277.379,1173.057 1228.596,1165.163 1211.043,1118.969 1242.27,1080.67 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1370.936,1058.206 1388.492,1104.398 
+		1357.265,1142.698 1308.482,1134.804 1290.928,1088.611 1322.155,1050.311 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1450.823,1027.847 1468.377,1074.04 
+		1437.15,1112.339 1388.369,1104.445 1370.814,1058.252 1402.041,1019.953 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1530.709,997.487 1548.264,1043.68 
+		1517.037,1081.98 1468.254,1074.086 1450.699,1027.894 1481.928,989.593 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1610.596,967.129 1628.15,1013.321 
+		1596.922,1051.621 1548.141,1043.728 1530.586,997.534 1561.813,959.235 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1690.48,936.769 1708.035,982.962 
+		1676.809,1021.261 1628.026,1013.368 1610.472,967.175 1641.699,928.876 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1517.106,1081.818 1534.661,1128.011 
+		1503.434,1166.31 1454.652,1158.417 1437.098,1112.224 1468.324,1073.923 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1596.992,1051.458 1614.547,1097.651 
+		1583.318,1135.951 1534.537,1128.058 1516.982,1081.865 1548.21,1043.564 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1676.878,1021.1 1694.433,1067.292 
+		1663.205,1105.592 1614.424,1097.699 1596.869,1051.506 1628.096,1013.206 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1144.881,1064.951 1162.436,1111.145 
+		1131.21,1149.444 1082.428,1141.55 1064.873,1095.357 1096.101,1057.058 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1224.768,1034.593 1242.323,1080.786 
+		1211.096,1119.086 1162.313,1111.191 1144.759,1064.998 1175.986,1026.699 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1304.654,1004.233 1322.209,1050.427 
+		1290.982,1088.727 1242.199,1080.833 1224.645,1034.64 1255.872,996.339 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1384.54,973.875 1402.096,1020.069 
+		1370.867,1058.368 1322.086,1050.474 1304.531,1004.281 1335.758,965.98 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1464.426,943.516 1481.98,989.71 
+		1450.754,1028.009 1401.972,1020.115 1384.416,973.921 1415.644,935.622 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1544.312,913.156 1561.867,959.351 
+		1530.641,997.65 1481.857,989.755 1464.303,943.563 1495.53,905.263 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1624.197,882.798 1641.752,928.992 
+		1610.525,967.29 1561.744,959.396 1544.189,913.203 1575.416,874.904 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1704.084,852.438 1721.639,898.633 
+		1690.412,936.932 1641.629,929.038 1624.074,882.844 1655.301,844.545 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1370.936,1058.206 1388.492,1104.398 
+		1357.265,1142.698 1308.482,1134.804 1290.928,1088.611 1322.155,1050.311 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1450.823,1027.847 1468.377,1074.04 
+		1437.15,1112.339 1388.369,1104.445 1370.814,1058.252 1402.041,1019.953 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1530.709,997.487 1548.264,1043.68 
+		1517.037,1081.98 1468.254,1074.086 1450.699,1027.894 1481.928,989.593 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1610.596,967.129 1628.15,1013.321 
+		1596.922,1051.621 1548.141,1043.728 1530.586,997.534 1561.813,959.235 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1690.48,936.769 1708.035,982.962 
+		1676.809,1021.261 1628.026,1013.368 1610.472,967.175 1641.699,928.876 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1517.106,1081.818 1534.661,1128.011 
+		1503.434,1166.31 1454.652,1158.417 1437.098,1112.224 1468.324,1073.923 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1596.992,1051.458 1614.547,1097.651 
+		1583.318,1135.951 1534.537,1128.058 1516.982,1081.865 1548.21,1043.564 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1676.878,1021.1 1694.433,1067.292 
+		1663.205,1105.592 1614.424,1097.699 1596.869,1051.506 1628.096,1013.206 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1783.863,821.782 1801.418,867.976 
+		1770.19,906.275 1721.408,898.381 1703.854,852.188 1735.081,813.888 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1863.75,791.423 1881.303,837.616 
+		1850.076,875.915 1801.295,868.022 1783.74,821.829 1814.967,783.529 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1943.635,761.064 1961.189,807.257 
+		1929.963,845.557 1881.18,837.663 1863.625,791.47 1894.854,753.17 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1770.26,906.112 1787.814,952.306 
+		1756.588,990.604 1707.806,982.711 1690.252,936.518 1721.479,898.219 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1850.146,875.753 1867.701,921.946 
+		1836.474,960.246 1787.691,952.352 1770.137,906.159 1801.364,867.859 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1930.031,845.394 1947.586,891.587 
+		1916.359,929.887 1867.577,921.994 1850.022,875.799 1881.25,837.5 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1756.656,990.442 1774.211,1036.636 
+		1742.984,1074.936 1694.203,1067.042 1676.647,1020.848 1707.875,982.549 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1836.543,960.083 1854.098,1006.277 
+		1822.871,1044.576 1774.088,1036.683 1756.533,990.489 1787.762,952.188 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1916.43,929.724 1933.984,975.919 
+		1902.757,1014.217 1853.975,1006.324 1836.42,960.13 1867.646,921.83 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1996.314,899.366 2013.869,945.56 
+		1982.643,983.859 1933.861,975.965 1916.306,929.771 1947.533,891.471 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1783.863,821.782 1801.418,867.976 
+		1770.19,906.275 1721.408,898.381 1703.854,852.188 1735.081,813.888 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1863.75,791.423 1881.303,837.616 
+		1850.076,875.915 1801.295,868.022 1783.74,821.829 1814.967,783.529 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1943.635,761.064 1961.189,807.257 
+		1929.963,845.557 1881.18,837.663 1863.625,791.47 1894.854,753.17 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1770.26,906.112 1787.814,952.306 
+		1756.588,990.604 1707.806,982.711 1690.252,936.518 1721.479,898.219 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1850.146,875.753 1867.701,921.946 
+		1836.474,960.246 1787.691,952.352 1770.137,906.159 1801.364,867.859 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1930.031,845.394 1947.586,891.587 
+		1916.359,929.887 1867.577,921.994 1850.022,875.799 1881.25,837.5 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1756.656,990.442 1774.211,1036.636 
+		1742.984,1074.936 1694.203,1067.042 1676.647,1020.848 1707.875,982.549 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1836.543,960.083 1854.098,1006.277 
+		1822.871,1044.576 1774.088,1036.683 1756.533,990.489 1787.762,952.188 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1916.43,929.724 1933.984,975.919 
+		1902.757,1014.217 1853.975,1006.324 1836.42,960.13 1867.646,921.83 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1996.314,899.366 2013.869,945.56 
+		1982.643,983.859 1933.861,975.965 1916.306,929.771 1947.533,891.471 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="626.65,1024.255 644.204,1070.448 
+		612.977,1108.748 564.195,1100.854 546.641,1054.661 577.867,1016.361 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="706.535,993.896 724.09,1040.09 
+		692.863,1078.388 644.081,1070.496 626.527,1024.303 657.754,986.002 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="786.422,963.537 803.977,1009.73 
+		772.749,1048.03 723.967,1040.136 706.412,993.943 737.64,955.644 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="866.308,933.179 883.862,979.372 
+		852.635,1017.673 803.852,1009.777 786.299,963.584 817.526,925.286 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="946.193,902.819 963.748,949.013 
+		932.521,987.313 883.739,979.419 866.185,933.226 897.412,894.927 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1026.08,872.46 1043.635,918.653 
+		1012.407,956.954 963.625,949.06 946.07,902.867 977.298,864.567 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1105.965,842.102 1123.52,888.294 
+		1092.293,926.595 1043.511,918.7 1025.956,872.508 1057.184,834.208 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1185.852,811.743 1203.406,857.935 
+		1172.18,896.236 1123.396,888.342 1105.842,842.149 1137.07,803.849 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1265.736,781.385 1283.293,827.577 
+		1252.064,865.878 1203.283,857.983 1185.729,811.79 1216.955,773.491 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1345.623,751.026 1363.178,797.219 
+		1331.951,835.519 1283.168,827.623 1265.614,781.431 1296.842,743.132 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1425.51,720.667 1443.064,766.859 
+		1411.838,805.159 1363.055,797.265 1345.5,751.073 1376.728,712.773 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1505.396,690.308 1522.95,736.5 
+		1491.723,774.799 1442.94,766.906 1425.387,720.713 1456.613,682.414 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1585.281,659.948 1602.836,706.141 
+		1571.608,744.441 1522.826,736.547 1505.271,690.354 1536.5,652.055 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="692.934,1078.227 710.488,1124.419 
+		679.26,1162.719 630.477,1154.826 612.924,1108.633 644.15,1070.333 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="772.818,1047.868 790.373,1094.061 
+		759.146,1132.361 710.364,1124.467 692.81,1078.274 724.037,1039.974 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="852.705,1017.509 870.26,1063.702 
+		839.031,1102.001 790.25,1094.107 772.695,1047.914 803.923,1009.615 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="932.591,987.15 950.144,1033.343 
+		918.918,1071.642 870.137,1063.749 852.581,1017.555 883.809,979.257 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1012.477,956.79 1030.031,1002.985 
+		998.803,1041.284 950.021,1033.39 932.467,987.196 963.694,948.896 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1092.363,926.432 1109.918,972.625 
+		1078.689,1010.925 1029.908,1003.031 1012.352,956.838 1043.58,918.538 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1172.248,896.074 1189.803,942.266 
+		1158.576,980.566 1109.794,972.673 1092.238,926.479 1123.467,888.179 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1252.135,865.715 1269.689,911.908 
+		1238.462,950.206 1189.68,942.313 1172.125,896.12 1203.352,857.819 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1332.02,835.356 1349.575,881.548 
+		1318.348,919.848 1269.566,911.954 1252.012,865.762 1283.238,827.461 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1411.906,804.998 1429.461,851.19 
+		1398.234,889.489 1349.451,881.596 1331.897,835.402 1363.125,797.102 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1491.793,774.638 1509.347,820.831 
+		1478.119,859.13 1429.338,851.236 1411.783,805.044 1443.01,766.743 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1571.678,744.279 1589.232,790.471 
+		1558.006,828.771 1509.224,820.878 1491.668,774.685 1522.896,736.385 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="918.988,1071.48 936.543,1117.673 
+		905.315,1155.972 856.533,1148.078 838.977,1101.885 870.205,1063.586 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="998.873,1041.121 1016.429,1087.314 
+		985.201,1125.614 936.418,1117.72 918.863,1071.526 950.092,1033.227 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1078.76,1010.763 1096.314,1056.956 
+		1065.086,1095.254 1016.305,1087.361 998.75,1041.167 1029.978,1002.868 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1158.646,980.403 1176.199,1026.596 
+		1144.973,1064.896 1096.191,1057.002 1078.635,1010.808 1109.863,972.509 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1238.531,950.045 1256.086,996.238 
+		1224.859,1034.537 1176.077,1026.644 1158.521,980.451 1189.75,942.15 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1318.416,919.685 1335.972,965.879 
+		1304.744,1004.179 1255.963,996.285 1238.408,950.091 1269.635,911.79 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1398.303,889.327 1415.858,935.519 
+		1384.631,973.819 1335.85,965.925 1318.294,919.733 1349.52,881.432 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1478.189,858.969 1495.744,905.16 
+		1464.517,943.46 1415.734,935.567 1398.18,889.373 1429.406,851.074 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1558.075,828.608 1575.63,874.802 
+		1544.402,913.102 1495.621,905.206 1478.066,859.015 1509.293,820.715 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="626.65,1024.255 644.204,1070.448 
+		612.977,1108.748 564.195,1100.854 546.641,1054.661 577.867,1016.361 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="706.535,993.896 724.09,1040.09 
+		692.863,1078.388 644.081,1070.496 626.527,1024.303 657.754,986.002 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="786.422,963.537 803.977,1009.73 
+		772.749,1048.03 723.967,1040.136 706.412,993.943 737.64,955.644 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="866.308,933.179 883.862,979.372 
+		852.635,1017.673 803.852,1009.777 786.299,963.584 817.526,925.286 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="946.193,902.819 963.748,949.013 
+		932.521,987.313 883.739,979.419 866.185,933.226 897.412,894.927 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1026.08,872.46 1043.635,918.653 
+		1012.407,956.954 963.625,949.06 946.07,902.867 977.298,864.567 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1105.965,842.102 1123.52,888.294 
+		1092.293,926.595 1043.511,918.7 1025.956,872.508 1057.184,834.208 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1185.852,811.743 1203.406,857.935 
+		1172.18,896.236 1123.396,888.342 1105.842,842.149 1137.07,803.849 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1265.736,781.385 1283.293,827.577 
+		1252.064,865.878 1203.283,857.983 1185.729,811.79 1216.955,773.491 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1345.623,751.026 1363.178,797.219 
+		1331.951,835.519 1283.168,827.623 1265.614,781.431 1296.842,743.132 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1425.51,720.667 1443.064,766.859 
+		1411.838,805.159 1363.055,797.265 1345.5,751.073 1376.728,712.773 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1505.396,690.308 1522.95,736.5 
+		1491.723,774.799 1442.94,766.906 1425.387,720.713 1456.613,682.414 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1585.281,659.948 1602.836,706.141 
+		1571.608,744.441 1522.826,736.547 1505.271,690.354 1536.5,652.055 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="692.934,1078.227 710.488,1124.419 
+		679.26,1162.719 630.477,1154.826 612.924,1108.633 644.15,1070.333 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="772.818,1047.868 790.373,1094.061 
+		759.146,1132.361 710.364,1124.467 692.81,1078.274 724.037,1039.974 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="852.705,1017.509 870.26,1063.702 
+		839.031,1102.001 790.25,1094.107 772.695,1047.914 803.923,1009.615 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="932.591,987.15 950.144,1033.343 
+		918.918,1071.642 870.137,1063.749 852.581,1017.555 883.809,979.257 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1012.477,956.79 1030.031,1002.985 
+		998.803,1041.284 950.021,1033.39 932.467,987.196 963.694,948.896 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1092.363,926.432 1109.918,972.625 
+		1078.689,1010.925 1029.908,1003.031 1012.352,956.838 1043.58,918.538 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1172.248,896.074 1189.803,942.266 
+		1158.576,980.566 1109.794,972.673 1092.238,926.479 1123.467,888.179 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1252.135,865.715 1269.689,911.908 
+		1238.462,950.206 1189.68,942.313 1172.125,896.12 1203.352,857.819 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1332.02,835.356 1349.575,881.548 
+		1318.348,919.848 1269.566,911.954 1252.012,865.762 1283.238,827.461 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1411.906,804.998 1429.461,851.19 
+		1398.234,889.489 1349.451,881.596 1331.897,835.402 1363.125,797.102 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1491.793,774.638 1509.347,820.831 
+		1478.119,859.13 1429.338,851.236 1411.783,805.044 1443.01,766.743 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1571.678,744.279 1589.232,790.471 
+		1558.006,828.771 1509.224,820.878 1491.668,774.685 1522.896,736.385 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="918.988,1071.48 936.543,1117.673 
+		905.315,1155.972 856.533,1148.078 838.977,1101.885 870.205,1063.586 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="998.873,1041.121 1016.429,1087.314 
+		985.201,1125.614 936.418,1117.72 918.863,1071.526 950.092,1033.227 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1078.76,1010.763 1096.314,1056.956 
+		1065.086,1095.254 1016.305,1087.361 998.75,1041.167 1029.978,1002.868 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1158.646,980.403 1176.199,1026.596 
+		1144.973,1064.896 1096.191,1057.002 1078.635,1010.808 1109.863,972.509 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1238.531,950.045 1256.086,996.238 
+		1224.859,1034.537 1176.077,1026.644 1158.521,980.451 1189.75,942.15 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1318.416,919.685 1335.972,965.879 
+		1304.744,1004.179 1255.963,996.285 1238.408,950.091 1269.635,911.79 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1398.303,889.327 1415.858,935.519 
+		1384.631,973.819 1335.85,965.925 1318.294,919.733 1349.52,881.432 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1478.189,858.969 1495.744,905.16 
+		1464.517,943.46 1415.734,935.567 1398.18,889.373 1429.406,851.074 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1558.075,828.608 1575.63,874.802 
+		1544.402,913.102 1495.621,905.206 1478.066,859.015 1509.293,820.715 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1665.061,629.29 1682.615,675.485 
+		1651.387,713.784 1602.605,705.89 1585.051,659.697 1616.278,621.398 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1744.946,598.932 1762.502,645.126 
+		1731.273,683.425 1682.492,675.532 1664.936,629.338 1696.164,591.039 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1824.832,568.574 1842.387,614.767 
+		1811.16,653.066 1762.377,645.173 1744.822,598.979 1776.051,560.679 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1904.719,538.215 1922.273,584.408 
+		1891.046,622.706 1842.264,614.814 1824.709,568.62 1855.936,530.321 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1984.604,507.856 2002.158,554.049 
+		1970.932,592.348 1922.15,584.455 1904.596,538.262 1935.822,499.962 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1651.457,713.621 1669.012,759.815 
+		1637.785,798.115 1589.002,790.22 1571.447,744.026 1602.676,705.727 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1731.344,683.263 1748.898,729.456 
+		1717.67,767.755 1668.889,759.861 1651.334,713.668 1682.562,675.368 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1811.229,652.903 1828.783,699.097 
+		1797.557,737.396 1748.775,729.503 1731.219,683.31 1762.447,645.009 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1891.115,622.545 1908.67,668.738 
+		1877.442,707.037 1828.661,699.144 1811.105,652.951 1842.334,614.65 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1971.002,592.185 1988.556,638.379 
+		1957.328,676.679 1908.547,668.784 1890.992,622.591 1922.219,584.292 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1637.854,797.951 1655.409,844.144 
+		1624.182,882.444 1575.398,874.55 1557.845,828.356 1589.072,790.057 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1717.74,767.593 1735.295,813.786 
+		1704.068,852.086 1655.285,844.191 1637.73,797.998 1668.959,759.699 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1797.627,737.233 1815.182,783.428 
+		1783.953,821.727 1735.172,813.833 1717.615,767.639 1748.844,729.339 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1877.512,706.875 1895.066,753.069 
+		1863.84,791.367 1815.058,783.474 1797.502,737.281 1828.73,698.98 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1957.397,676.516 1974.951,722.71 
+		1943.726,761.009 1894.943,753.115 1877.389,706.921 1908.615,668.621 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1665.061,629.29 1682.615,675.485 
+		1651.387,713.784 1602.605,705.89 1585.051,659.697 1616.278,621.398 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1744.946,598.932 1762.502,645.126 
+		1731.273,683.425 1682.492,675.532 1664.936,629.338 1696.164,591.039 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1824.832,568.574 1842.387,614.767 
+		1811.16,653.066 1762.377,645.173 1744.822,598.979 1776.051,560.679 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1904.719,538.215 1922.273,584.408 
+		1891.046,622.706 1842.264,614.814 1824.709,568.62 1855.936,530.321 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1984.604,507.856 2002.158,554.049 
+		1970.932,592.348 1922.15,584.455 1904.596,538.262 1935.822,499.962 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1651.457,713.621 1669.012,759.815 
+		1637.785,798.115 1589.002,790.22 1571.447,744.026 1602.676,705.727 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1731.344,683.263 1748.898,729.456 
+		1717.67,767.755 1668.889,759.861 1651.334,713.668 1682.562,675.368 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1811.229,652.903 1828.783,699.097 
+		1797.557,737.396 1748.775,729.503 1731.219,683.31 1762.447,645.009 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1891.115,622.545 1908.67,668.738 
+		1877.442,707.037 1828.661,699.144 1811.105,652.951 1842.334,614.65 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1971.002,592.185 1988.556,638.379 
+		1957.328,676.679 1908.547,668.784 1890.992,622.591 1922.219,584.292 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1637.854,797.951 1655.409,844.144 
+		1624.182,882.444 1575.398,874.55 1557.845,828.356 1589.072,790.057 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1717.74,767.593 1735.295,813.786 
+		1704.068,852.086 1655.285,844.191 1637.73,797.998 1668.959,759.699 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1797.627,737.233 1815.182,783.428 
+		1783.953,821.727 1735.172,813.833 1717.615,767.639 1748.844,729.339 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1877.512,706.875 1895.066,753.069 
+		1863.84,791.367 1815.058,783.474 1797.502,737.281 1828.73,698.98 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1957.397,676.516 1974.951,722.71 
+		1943.726,761.009 1894.943,753.115 1877.389,706.921 1908.615,668.621 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1743.1,1074.892 1760.654,1121.086 
+		1729.427,1159.385 1680.645,1151.491 1663.09,1105.296 1694.316,1066.998 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1822.984,1044.532 1840.54,1090.727 
+		1809.313,1129.026 1760.53,1121.131 1742.976,1074.938 1774.203,1036.639 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1902.871,1014.173 1920.426,1060.368 
+		1889.199,1098.667 1840.418,1090.772 1822.861,1044.58 1854.089,1006.279 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1982.757,983.815 2000.313,1030.009 
+		1969.086,1068.308 1920.303,1060.414 1902.748,1014.22 1933.975,975.92 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1743.1,1074.892 1760.654,1121.086 
+		1729.427,1159.385 1680.645,1151.491 1663.09,1105.296 1694.316,1066.998 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1822.984,1044.532 1840.54,1090.727 
+		1809.313,1129.026 1760.53,1121.131 1742.976,1074.938 1774.203,1036.639 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1902.871,1014.173 1920.426,1060.368 
+		1889.199,1098.667 1840.418,1090.772 1822.861,1044.58 1854.089,1006.279 	"/>
+	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="1982.757,983.815 2000.313,1030.009 
+		1969.086,1068.308 1920.303,1060.414 1902.748,1014.22 1933.975,975.92 	"/>
+</g>
+</svg>

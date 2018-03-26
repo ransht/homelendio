@@ -1,0 +1,932 @@
+<!DOCTYPE html>
+<html lang="he-IL">
+
+<head>
+  <title>Homelend - Mortgage Crowdfunding Platform</title>
+  <meta charset="utf-8" />
+  <link rel="shortcut icon" href="images/icon.jpg" type="image/x-icon" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="" />
+  <meta name="keywords" content="" />
+
+
+  <!-- toastr -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css" rel="stylesheet">
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700|Roboto&amp;subset=hebrew" rel="stylesheet">
+  <!-- Boostrap grid system & Reset Style -->
+  <link href="css/grid&reset.css" rel='stylesheet' type='text/css' />
+  <!-- Owl Carousel -->
+  <link href="css/owl.carousel.css" rel='stylesheet' type='text/css' />
+  <!-- Main Style -->
+  <link href="css/style.css" rel='stylesheet' type='text/css' />
+</head>
+
+<body>
+
+  <header>
+    <div class="outer-container">
+      <div class="inner-container">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-2 col-sm-5 col-xs-5">
+              <a href="#" class="logo-box">
+                <img src="images/logo.svg" alt="Homelend logo" />
+              </a>
+            </div>
+            <div class="socials-box col-lg-7 col-md-6 hidden-sm hidden-xs">
+              <a href="https://t.me/HomelendPlatform" class="top-button2" href="https://t.me/HomelendPlatform" target="_blank">
+                <span>Join us on Telegram</span>
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 119.07 103.669">
+                  <path d="M2.096,49.706l27.438,10.241l10.621,34.166c0.679,2.169,3.361,2.986,5.135,1.535l15.291-12.475 c1.601-1.302,3.887-1.364,5.564-0.152l27.577,20.024c1.899,1.386,4.594,0.347,5.072-1.954L119,3.892 c0.52-2.508-1.947-4.587-4.33-3.672L2.069,43.664C-0.706,44.731-0.682,48.67,2.096,49.706L2.096,49.706z M38.445,54.501 l53.622-33.033c0.964-0.586,1.947,0.72,1.13,1.479L48.935,64.09c-1.552,1.441-2.549,3.384-2.834,5.487l-1.517,11.169 c-0.194,1.483-2.287,1.635-2.703,0.198L36.089,60.57C35.424,58.246,36.394,55.766,38.445,54.501L38.445,54.501z M38.445,54.501"
+                  />
+                </svg>
+              </a>
+              <a class="fb-logo" href="#" target="_blank">
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 30 68.571">
+                  <path d="M4.286,68.571V30H0v-8.571h4.286v-9.267 C4.286,8.05,7.353,0,19.763,0H30v8.571h-7.123c-2.486,0-5.734,0.667-5.734,4.306v8.551h12.271l-0.695,5.69L28.376,30H17.143v38.571 H4.286z"
+                  />
+                </svg>
+              </a>
+              <a class="tw-logo" href="https://twitter.com/HomelendHMD" target="_blank">
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 208.541 167.138">
+                  <path d="M208.54,19.845c-7.577,3.269-15.672,5.563-24.402,6.686 c8.945-5.324,15.825-13.504,19.005-23.453c-8.265,4.87-17.529,8.389-27.269,10.296C168.165,5.109,156.983,0,144.494,0 c-23.545,0-42.799,18.936-42.799,42.17c0,3.399,0.591,6.555,1.243,9.621C67.275,50.087,35.658,33.331,14.577,7.714 c-3.633,6.346-5.904,13.492-5.904,21.189c0,14.736,9.809,27.661,21.139,35.125c-7.016-0.119-17.278-2.048-17.278-5.222 c0,0.222,0,0.341,0,0.567c0,5.456-1.079,10.445,0.851,15.185c5.211,13.265,16.063,23.227,30.453,26.071 c-3.74,1.028-7.896,1.566-11.858,1.566c-2.725,0-5.71-0.306-8.298-0.874c5.539,16.746,21.161,28.989,39.869,29.432 c-14.735,11.336-33.149,18.033-53.209,18.033c-3.519,0-6.834-0.227-10.343-0.595c19.038,11.926,41.551,18.948,65.709,18.948 c66.958,0,107.945-46.348,118.702-94.51c1.93-8.6,2.498-17.085,2.498-25.469c0-1.817,0-3.747,0-5.45 C198.533,35.692,202.893,28.228,208.54,19.845L208.54,19.845z"
+                  />
+                </svg>
+              </a>
+              <a class="ld-logo" href="https://www.linkedin.com/company/18236177" target="_blank">
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 130.447 144.899">
+                  <path d="M130.447,88.986v55.913H103.06V92.72c0-13.175-5.329-22.126-15.231-22.126 c-7.582,0-14.061,6.068-16.053,11.902c-0.722,2.096-2.949,5.039-2.949,7.942v54.462H44.122c0,0,0.368-89.587,0-97.732h24.705 v13.915c0,0.123,2.541,2.374,2.541,2.374h-2.541v-2.374c6.847-6.665,12.837-16.166,27.373-16.166 C114.253,44.917,130.447,58.914,130.447,88.986L130.447,88.986z M15.485,0C6.124,0,0,5.805,0,15.445 c0,9.369,5.95,15.434,15.137,15.434h0.16c9.568,0,15.499-6.065,15.499-15.434C30.609,5.805,24.866,0,15.485,0L15.485,0z M0.361,144.899h27.387V47.168H0.361V144.899z M1.631,145.134"
+                  />
+                </svg>
+              </a>
+              <!-- <a class="tg-logo" href="https://t.me/HomelendPlatform" target="_blank">
+                  <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 119.07 103.669">
+                    <path d="M2.096,49.706l27.438,10.241l10.621,34.166c0.679,2.169,3.361,2.986,5.135,1.535l15.291-12.475 c1.601-1.302,3.887-1.364,5.564-0.152l27.577,20.024c1.899,1.386,4.594,0.347,5.072-1.954L119,3.892 c0.52-2.508-1.947-4.587-4.33-3.672L2.069,43.664C-0.706,44.731-0.682,48.67,2.096,49.706L2.096,49.706z M38.445,54.501 l53.622-33.033c0.964-0.586,1.947,0.72,1.13,1.479L48.935,64.09c-1.552,1.441-2.549,3.384-2.834,5.487l-1.517,11.169 c-0.194,1.483-2.287,1.635-2.703,0.198L36.089,60.57C35.424,58.246,36.394,55.766,38.445,54.501L38.445,54.501z M38.445,54.501"/>
+                  </svg>
+                </a> -->
+              <a class="mm-logo" href="https://medium.com/@homelend" target="_blank">
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 147.497 123.563">
+                  <path d="M71.263,52.628L71.263,52.628L54.774,25.79L7.13,4.765C5.602,4.034,0,5.179,0,6.87v93.946 c0,0.908,4.361,1.735,5.189,2.133l45.407,20.372c1.568,0.772,6.446-0.398,6.446-2.133V79.923l44.055,21.725L71.263,52.628z"
+                  />
+                  <path d="M101.701,97.538l45.75-75.949c0.095-0.175,0.04-0.601-0.143-0.684L105.664,0.548h-0.015 l-1.847-0.306c-1.384-0.665-3.048,0.115-3.851,1.436L72.098,47.674L101.701,97.538z"
+                  />
+                  <path d="M102.091,102.639l42.12,20.682c1.568,0.772,2.467-0.398,2.467-2.133v-93.44 C146.678,27.135,102.091,102.639,102.091,102.639z"
+                  />
+                </svg>
+              </a>
+              <a class="rd-logo" href="#" target="_blank">
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 201.499 178.549">
+                  <path d="M201.499,80.724c0-13.977-11.331-25.309-25.3-25.309c-7.006,0-13.324,2.859-17.902,7.446 c-14.151-9.117-32.236-14.93-52.087-15.852c0.009-8.424,3.786-16.275,10.365-21.549c6.597-5.291,15.095-7.276,23.341-5.448 l1.132,0.261c-0.018,0.278-0.053,0.557-0.053,0.835c0,11.68,9.469,21.131,21.131,21.131c11.662,0,21.131-9.451,21.131-21.131 C183.258,9.447,173.789,0,162.127,0c-7.502,0-14.064,3.911-17.824,9.816l-2.019-0.452c-11.487-2.563-23.359,0.204-32.54,7.571 c-9.173,7.358-14.439,18.324-14.456,30.073c-19.843,0.922-37.919,6.736-52.07,15.852c-4.578-4.587-10.904-7.446-17.919-7.446 C11.331,55.415,0,66.747,0,80.724c0,9.734,5.509,18.172,13.573,22.402c-0.614,3.132-0.927,6.335-0.927,9.59 c0,36.361,39.441,65.833,88.108,65.833c48.658,0,88.108-29.472,88.108-65.833c0-3.255-0.322-6.457-0.931-9.59 C195.981,98.896,201.499,90.458,201.499,80.724z M162.127,10.909c5.622,0,10.208,4.587,10.208,10.2 c0,5.639-4.586,10.217-10.208,10.217c-5.639,0-10.2-4.578-10.2-10.217C151.927,15.496,156.488,10.909,162.127,10.909z M10.922,80.724c0-7.932,6.449-14.394,14.377-14.394c3.403,0,6.518,1.183,8.981,3.167c-7.698,6.614-13.655,14.36-17.358,22.889 C13.289,89.775,10.922,85.528,10.922,80.724z M156.522,150.521c-14.778,11.035-34.577,17.11-55.768,17.11 c-21.2,0-41.009-6.074-55.768-17.11c-13.82-10.322-21.427-23.741-21.427-37.806c0-14.046,7.606-27.484,21.427-37.806 c14.76-11.03,34.568-17.101,55.768-17.101c21.191,0,40.991,6.071,55.768,17.101c13.811,10.322,21.427,23.76,21.427,37.806 C177.949,126.78,170.334,140.2,156.522,150.521z M184.563,92.386c-3.69-8.529-9.66-16.275-17.345-22.889 c2.462-1.984,5.579-3.167,8.981-3.167c7.928,0,14.386,6.462,14.386,14.394C190.586,85.528,188.201,89.775,184.563,92.386z"
+                  />
+                  <path d="M68.57,85.824c6.362,0,11.523,5.152,11.523,11.522c0,6.367-5.161,11.527-11.523,11.527 c-6.37,0-11.522-5.161-11.522-11.527C57.048,90.976,62.2,85.824,68.57,85.824z"
+                  />
+                  <path d="M132.937,85.824c6.362,0,11.505,5.152,11.505,11.522c0,6.367-5.143,11.527-11.505,11.527 c-6.37,0-11.523-5.161-11.523-11.527C121.414,90.976,126.567,85.824,132.937,85.824z"
+                  />
+                  <path d="M128.054,125.335c-8.12,7.398-18.65,11.497-29.65,11.497 c-12.341,0-23.777-4.987-32.21-14.021 c-2.053-2.21-5.508-2.332-7.719-0.274 c-2.201,2.05-2.323,5.496-0.261,7.706 c10.356,11.123,25.013,17.476,40.19,17.476 c13.733,0,26.857-5.065,37.004-14.312 c2.228-2.032,2.385-5.478,0.357-7.698 C133.738,123.473,130.282,123.316,128.054,125.335z"
+                  />
+                </svg>
+              </a>
+              <a class="pg-logo" href="#" target="_blank">
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 90.575 76.643">
+                  <path d="M83.173,21.013c0.977-2.94,1.468-5.986,1.468-9.147c0-4.206-0.928-8.166-2.775-11.866 c-3.882,0-7.308,0.707-10.289,2.126c-2.972,1.412-6.367,3.612-10.182,6.583c-4.783-1.162-9.865-1.738-15.237-1.738 c-5.876,0-11.489,0.631-16.821,1.901c-3.886-3.047-7.313-5.287-10.285-6.722C16.076,0.716,12.627,0,8.709,0 C6.858,3.701,5.934,7.661,5.934,11.866c0,3.195,0.486,6.278,1.468,9.256C2.463,26.894,0,34.075,0,42.677 c0,7.547,1.124,13.555,3.373,18.021c1.196,2.354,2.758,4.442,4.68,6.258c1.923,1.813,4.118,3.284,6.586,4.408 c2.467,1.129,4.952,2.059,7.46,2.807c2.503,0.741,5.269,1.285,8.299,1.628c3.03,0.346,5.707,0.573,8.031,0.683 c2.32,0.107,4.895,0.161,7.728,0.161c3.342,0,6.367-0.08,9.089-0.245c2.726-0.161,5.836-0.562,9.338-1.194 c3.503-0.636,6.581-1.499,9.254-2.586c2.668-1.089,5.225-2.65,7.67-4.68c2.454-2.035,4.368-4.448,5.747-7.239 c2.213-4.499,3.32-10.51,3.32-18.021C90.575,34.042,88.108,26.818,83.173,21.013z M76.636,60.612 c-1.155,2.38-2.623,4.25-4.409,5.608c-1.775,1.361-3.989,2.452-6.639,3.264c-2.65,0.819-5.184,0.524-7.616,0.779 c-2.432,0.254-5.135-0.448-8.112-0.448h-9.147c-2.976,0-5.68,0.703-8.112,0.448c-2.432-0.254-4.971-0.375-7.621-1.189 c-2.646-0.816-4.859-1.7-6.639-3.061c-1.78-1.361-3.248-3.123-4.413-5.504c-1.16-2.378-1.74-5.109-1.74-8.303 c0-4.355,1.25-8.032,3.757-11.079c2.503-3.047,5.898-4.558,10.177-4.558c1.557,0,5.1,0.39,10.615,1.147 c2.579,0.402,5.426,0.6,8.549,0.6c3.119,0,5.97-0.194,8.549-0.596c5.586-0.761,9.124-1.14,10.61-1.14 c4.283,0,7.674,1.526,10.182,4.578c2.503,3.043,3.748,6.744,3.748,11.099C78.377,55.452,77.801,58.241,76.636,60.612z"
+                  />
+                  <path d="M31.813,43.657c-1.106-1.234-2.418-1.852-3.944-1.852c-1.526,0-2.842,0.618-3.949,1.852 c-1.111,1.231-1.887,2.612-2.338,4.136c-0.45,1.526-0.683,3.012-0.683,4.464c0,1.454,0.232,2.94,0.683,4.462 c0.45,1.526,1.227,2.907,2.338,4.139c1.107,1.236,2.423,1.852,3.949,1.852c1.526,0,2.838-0.616,3.944-1.852 c1.107-1.231,1.883-2.613,2.338-4.139c0.455-1.521,0.687-3.007,0.687-4.462c0-1.446-0.232-2.938-0.687-4.464 C33.696,46.269,32.919,44.897,31.813,43.657z"
+                  />
+                  <path d="M66.651,43.657c-1.106-1.234-2.427-1.852-3.944-1.852c-1.526,0-2.838,0.618-3.944,1.852 c-1.111,1.231-1.887,2.612-2.342,4.136c-0.45,1.526-0.683,3.012-0.683,4.464c0,1.454,0.232,2.94,0.683,4.462 c0.455,1.526,1.231,2.907,2.342,4.139c1.107,1.236,2.418,1.852,3.944,1.852c1.517,0,2.838-0.616,3.944-1.852 c1.107-1.231,1.887-2.613,2.342-4.139c0.455-1.521,0.683-3.007,0.683-4.462c0-1.446-0.228-2.938-0.683-4.464 C68.538,46.269,67.757,44.897,66.651,43.657z"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div class="top-buttons-box col-lg-3 col-md-4 col-sm-7 col-xs-7">
+              <!-- <a href="" class="top-button">DEMO</a> -->
+              <a href="files/Whitepaper.pdf" class="top-button" target="_blank">WHITEPAPER</a>
+              <svg version="1.1" class="mobile-switcher" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 37 32">
+                <line style="fill:none;stroke-width:5;" x1="36.935" y1="2.509" x2="0" y2="2.509" />
+                <line style="fill:none;stroke-width:5;" x1="36.935" y1="15.915" x2="9.233" y2="15.915" />
+                <line style="fill:none;stroke-width:5;" x1="36.935" y1="29.338" x2="0" y2="29.338" />
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mobile-menu mobile-main-menu">
+        <svg version="1.1" class="cross" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 43.75 43.766">
+          <line x1="0.7" y1="0.696" x2="43.034" y2="43.03" />
+          <line x1="43.034" y1="0.696" x2="0.7" y2="43.03" />
+        </svg>
+        <a href=".block4" class="menu-item go_to">about</a>
+        <a href=".bbw" class="menu-item go_to">hmd token</a>
+        <a href=".team" class="menu-item go_to">team</a>
+        <a href=".roadmap" class="menu-item go_to">roadmap</a>
+        <a href=".accordeon" class="menu-item go_to">faq</a>
+        <div class="soc-menu hidden-lg hidden-md">
+          <a href="#">
+            <img src="images/fb-logo.svg" alt="">
+          </a>
+          <a href="#">
+            <img src="images/twitter-logo.svg" alt="">
+          </a>
+          <a href="#">
+            <img src="images/ld-logo.svg" alt="">
+          </a>
+          <a href="https://t.me/HomelendPlatform">
+            <img src="images/telegram-logo.svg" alt="">
+          </a>
+          <a href="#">
+            <img src="images/m-logo.svg" alt="">
+          </a>
+          <a href="#">
+            <img src="images/reddit-logo.svg" alt="">
+          </a>
+          <a href="#">
+            <img src="images/git-logo.svg" alt="">
+          </a>
+          <a href="#">
+            <img src="images/pig-logo.svg" alt="">
+          </a>
+        </div>
+      </div>
+      <div class="mobile-menu singup-form">
+        <svg version="1.1" class="cross" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 43.75 43.766">
+          <line x1="0.7" y1="0.696" x2="43.034" y2="43.03" />
+          <line x1="43.034" y1="0.696" x2="0.7" y2="43.03" />
+        </svg>
+        <form>
+          <input type="email" id='emailSignup' placeholder="E-mail" />
+          <input type="button" id='submitSignup' value="Submit">
+        </form>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+          <h1>A Mortgage Crowdfunding Platform</h1>
+          <div class="h1-desc">We’re building a blockchain-based, peer-to-peer mortgage lending platform</div>
+          <div class="clock-row">
+            <div class="tickets-box days">
+              <div class="ticket">S</div>
+              <div class="ticket">S</div>
+              <div class="desc">DAYS</div>
+            </div>
+            <div class="tickets-box hours">
+              <div class="ticket">O</div>
+              <div class="ticket">O</div>
+              <div class="desc">Hours</div>
+            </div>
+            <div class="tickets-box minutes">
+              <div class="ticket">O</div>
+              <div class="ticket">O</div>
+              <div class="desc">Minutes</div>
+            </div>
+            <div class="tickets-box seconds">
+              <div class="ticket">N</div>
+              <div class="ticket">N</div>
+              <div class="desc">Seconds</div>
+            </div>
+          </div>
+          <div class="blue">Join Us</div>
+          <div class="black">to disrupt a $31 trillion global market</div>
+          <a href="#" class="header-button">SIGNUP FOR UPDATES</a>
+          <!-- <div class="black">About the HMD token</div> -->
+        </div>
+      </div>
+    </div>
+    <div class="house"></div>
+  </header>
+
+  <section class="gray-block block2">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <div class="block-header">Today's Mortgage Lending Industry</div>
+        </div>
+        <div class="block-content col-md-8 col-xs-10 col-xs-offset-1">
+          <h5>Mortgage Loans Are at the Core of Society</h5>
+          <p>
+            Having a home is one of the basic human needs - a need most people are only able to afford by taking out a mortgage loan
+            from the bank. In the U.S. alone, more than 8 million mortgage loans are granted every year.
+          </p>
+          <h5>An Archaic $31 Trillion Industry Yearning for Disruption</h5>
+          <p>
+            The U.S. mortgage market is valued at $14 trillion, and the global market is expected to reach $31 trillion by the end of
+            2018. Yet, despite how central this market is both socially and economically, the traditional mortgage lending
+            system remains incredibly primitive.
+          </p>
+          <p>
+            The system relies on lengthy and complex paper-based processes involving various intermediaries—processes that are laden
+            with inefficiencies and overhead costs for both borrowers and lenders. Moreover, mortgage loans are largely unattainable
+            for the new generation of young borrowers, excluding millions of creditworthy individuals from obtaining home
+            loans due to outdated assessment criteria.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="two hexs"></div>
+    <div class="three hexs"></div>
+  </section>
+
+  <section class="gray-block block3">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <div class="block-header">Homelend Mortgage Crowdfunding Platform</div>
+        </div>
+        <div class="block-content col-md-8 col-xs-10 col-xs-offset-1">
+          <h5>We Are Developing a Decentralized, Peer-To-Peer Mortgage Lending Platform Serving Two Purposes</h5>
+          <p>
+            1. Modernizing the age-old mortgage lending system in order to make it efficient, cost-effective and customercentric.
+          </p>
+          <p>
+            2. Expanding home ownership opportunities for a new generation of borrowers, meeting their distinct lifestyle and needs.
+          </p>
+          <h5>How does it work?</h5>
+          <p>
+            By leveraging distributed ledger technology (DLT) and smart contracts, Homelend brings together individual borrowers and
+            lenders on an end-to-end platform that streamlines and automates the entire mortgage origination process.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="video">
+    <div id="video1"></div>
+  </section>
+
+  <section class="gray-block block4">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <div class="block-header">The Homelend Advantage</div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-1">
+          <img src="images/icon1.svg" alt="" class="icon">
+        </div>
+        <div class="col-content col-sm-5 col-xs-10 col-xs-offset-1">
+          <div class="medium">From manual & lengthy, to</div>
+          <h6>Streamlined & Efficient</h6>
+          <div>
+            By embedding pre-defined business logic into smart contracts, digitizing documentation and eliminating unnecessarily processes,
+            Homelend will automatically execute an end-to-end origination process, cutting it down from 50 days to less than
+            20.
+          </div>
+        </div>
+        <div class="col-sm-1">
+          <img src="images/icon2.svg" alt="" class="icon">
+        </div>
+        <div class="col-content col-sm-5 col-xs-10 col-xs-offset-1">
+          <div class="medium">From Ambiguous & Clunky to</div>
+          <h6>Transparent & User-Friendly</h6>
+          <div>
+            Homelend aims to create a lending process that is not only smart, but also simple and fair. It will enable borrowers will
+            be able to easily apply for a loan, track their application status at all times and interact directly with mortgage
+            lenders.
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-1">
+          <img src="images/icon3.svg" alt="" class="icon">
+        </div>
+        <div class="col-content col-sm-5 col-xs-10 col-xs-offset-1">
+          <div class="medium">From Costly Intermediation to</div>
+          <h6>Cost-Effective & Middleman-Free</h6>
+          <div>
+            The immutability, security and transparency provided by DLT makes it possible to record transactions, including loans, without
+            banks acting as middlemen. This will reduce costs for both borrowers and lenders, while minimizing the distance
+            between them.
+          </div>
+        </div>
+        <div class="col-sm-1">
+          <img src="images/icon4.svg" alt="" class="icon">
+        </div>
+        <div class="col-content col-sm-5 col-xs-10 col-xs-offset-1">
+          <div class="medium">From Vulnerable & Unreliable to</div>
+          <h6>Trusted & Secure</h6>
+          <div>
+            Centralization and paper-based processes are the key factors behind the insecurity and vulnerability that characterize the
+            traditional mortgage industry. The unique characteristics of DLT and smart contracts enable Homelend to provide
+            a platform for people to transact large amounts of money in a trusted, transparent, and secure way
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="two hexs"></div>
+  </section>
+
+  <section class="bbw">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <div class="block-header">The Homelend Token (HMD)</div>
+        </div>
+        <div class="block-content col-md-8">
+          <p>
+            The HMD token is the fuel powering the Homelend peer-to-peer lending platform. It's main functionality is to grant access
+            to the Homelend platform.
+          </p>
+          <p>
+            This utility token also plays an instrumental role in enabling a fast, smooth and user-friendly workflow that is unified
+            and secure.
+          </p>
+          <p>All tokens can be converted to and from HMD.</p>
+        </div>
+      </div>
+      <div class="logo2-box row">
+        <div class="col-md-4">
+          <div class="col-header">Timetable</div>
+          <p>
+            Pre-Sale.......................March 1, 2018
+            <br> Crowdsale.................June 1, 2018
+            <br> Closure........................July 30, 2018
+          </p>
+        </div>
+        <div class="col-md-4">
+          <div class="col-header">Specifications</div>
+          <p>
+            Symbol.............................HMD
+            <br> Total Supply................250,000,000
+            <br> Standard........................ERC-20
+            <br> Face Value....................1 ETH= 3,200 HMD
+            <br> Accepted Currencies...BTC, BCH, LTC, XRP, ETH, USD, EUR, CHF, GBP
+            <br> Softcap.............................US$ 5,000,000
+            <br> Hardcap...........................US$ 30,000,000
+            <br>
+          </p>
+        </div>
+        <div class="col-md-4">
+          <div class="col-header">Bonuses (ETH/HMD)</div>
+          <p>
+            First day 30%
+            <br> Week 1................................20%
+            <br> Week 2...............................15%
+            <br> Week 3................................10%
+            <br> Week 4 and After.......0%
+            <br>
+          </p>
+        </div>
+        <div class="logo2"></div>
+      </div>
+      <div class="graph-row row">
+        <div class="col-xs-12">
+          <div class="block-header">Token Allocation</div>
+          <img class="graph" src="images/graph1.svg" alt="">
+        </div>
+      </div>
+      <div class="graph-row row">
+        <div class="col-xs-12">
+          <div class="block-header">Use of Proceeds</div>
+          <img class="graph" src="images/graph2.svg" alt="">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="team">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4 col-xs-12">
+          <div class="block-header">Team & Advisers</div>
+        </div>
+      </div>
+      <div class="team-row row hidden-sm hidden-xs">
+        <div class="col-md-3">
+          <img class="team-photo" src="images/team1.jpg">
+          <div class="name">Itai Cohen</div>
+          <div class="job">Co-founder/CEO</div>
+          <a class="ld-link" href="https://www.linkedin.com/in/itai-cohen-9478959b/" target="_blank">
+            <img src="images/ld.svg" alt="">
+          </a>
+        </div>
+        <div class="col-md-3">
+          <img class="team-photo" src="images/team2.jpg">
+          <div class="name">Netanel Bitan</div>
+          <div class="job">Co-founder/CTO</div>
+          <a class="ld-link" href="https://www.linkedin.com/in/netanel-bitan-25a82437/" target="_blank">
+            <img src="images/ld.svg" alt="">
+          </a>
+        </div>
+        <div class="col-md-3">
+          <img class="team-photo" src="images/team3.jpg">
+          <div class="name">Ricardo Henriquez</div>
+          <div class="job">Chief Innovation Officer</div>
+          <a class="ld-link" href="https://www.linkedin.com/in/ricardo-henriquez-08b4593b/" target="_blank">
+            <img src="images/ld.svg" alt="">
+          </a>
+        </div>
+        <div class="col-md-3">
+          <img class="team-photo" src="images/team5.jpg">
+          <div class="name">Kanat Tulbassiyev</div>
+          <div class="job">Blockchain Director</div>
+          <a class="ld-link" href="https://www.linkedin.com/in/kanat-tulbassiyev/" target="_blank">
+            <img src="images/ld.svg" alt="">
+          </a>
+        </div>
+      </div>
+      <div class="team-row row hidden-sm hidden-xs viewedMore">
+        <div class="col-md-3">
+          <img class="team-photo" src="images/team6.jpg">
+          <div class="name">Ran Stivi</div>
+          <div class="job">Software Developer</div>
+          <a class="ld-link" href="https://www.linkedin.com/in/ran-stivi-a9959454/" target="_blank">
+            <img src="images/ld.svg" alt="">
+          </a>
+        </div>
+        <div class="col-md-3">
+          <img class="team-photo" src="images/team7.jpg">
+          <div class="name">Vinod Morkile</div>
+          <div class="job">Software Developer</div>
+          <a class="ld-link" href="https://www.linkedin.com/in/vinodmorkile/" target="_blank">
+            <img src="images/ld.svg" alt="">
+          </a>
+        </div>
+        <div class="col-md-3">
+          <img class="team-photo" src="images/team8.jpg">
+          <div class="name">Gal Zakay</div>
+          <div class="job">Software Developer</div>
+          <a class="ld-link" href="https://www.linkedin.com/in/gal-zakay-a6585b15b/" target="_blank">
+            <img src="images/ld.svg" alt="">
+          </a>
+        </div>
+        <div class="col-md-3">
+          <img class="team-photo" src="images/team9.jpg">
+          <div class="name">Raghuram Bala</div>
+          <div class="job">Lead Architect Advisor</div>
+          <a class="ld-link" href="https://www.linkedin.com/in/raghubala/" target="_blank">
+            <img src="images/ld.svg" alt="">
+          </a>
+        </div>
+        <div class="col-md-3">
+          <img class="team-photo" src="images/team10.jpg">
+          <div class="name">Snir Zano</div>
+          <div class="job">Investor Relations Advisor</div>
+          <a class="ld-link" href="https://www.linkedin.com/in/snir-zano-062641a4/" target="_blank">
+            <img src="images/ld.svg" alt="">
+          </a>
+        </div>
+        <div class="col-md-3">
+          <img class="team-photo" src="images/team11.jpg">
+          <div class="name">Ido Samuelson</div>
+          <div class="job">Blockchain Expert Advisor</div>
+          <a class="ld-link" href="https://www.linkedin.com/in/isamuelson/" target="_blank">
+            <img src="images/ld.svg" alt="">
+          </a>
+        </div>
+        <div class="col-md-3">
+          <img class="team-photo" src="images/team12.jpg">
+          <div class="name">Danny Coddy</div>
+          <div class="job">Appraisal Expert Advisor</div>
+        </div>
+        <div class="col-md-3">
+          <img class="team-photo" src="images/team13.jpg">
+          <div class="name">Yoram Uzan</div>
+          <div class="job">Real Estate Entrepreneur Advisor</div>
+        </div>
+      </div>
+      <div class="button-row row hidden-sm hidden-xs">
+        <div class="col-md-12">
+          <a class="viewMore" href=".team-row.viewedMore">
+            <span class="passiveShown">view more</span>
+            <span class="activeShown">view less</span>
+          </a>
+        </div>
+      </div>
+      <div class="row hidden-lg hidden-md">
+        <div class="owlcarousel col-xs-10 col-xs-offset-1">
+          <div class="item">
+            <img class="team-photo" src="images/team1.jpg">
+            <div class="name">Itai Cohen</div>
+            <div class="job">Co-founder/CEO</div>
+            <a class="ld-link" href="https://www.linkedin.com/in/itai-cohen-9478959b/" target="_blank">
+              <img src="images/ld.svg" alt="">
+            </a>
+          </div>
+          <div class="item">
+            <img class="team-photo" src="images/team2.jpg">
+            <div class="name">Netanel Bitan</div>
+            <div class="job">Co-founder/CTO</div>
+            <a class="ld-link" href="https://www.linkedin.com/in/netanel-bitan-25a82437/" target="_blank">
+              <img src="images/ld.svg" alt="">
+            </a>
+          </div>
+          <div class="item">
+            <img class="team-photo" src="images/team3.jpg">
+            <div class="name">Ricardo Henriquez</div>
+            <div class="job">Chief Innovation Officer</div>
+            <a class="ld-link" href="https://www.linkedin.com/in/ricardo-henriquez-08b4593b/" target="_blank">
+              <img src="images/ld.svg" alt="">
+            </a>
+          </div>
+          <div class="item">
+            <img class="team-photo" src="images/team4.jpg">
+            <div class="name">Bar Ginzburg</div>
+            <div class="job">Community manager</div>
+            <a class="ld-link" href="#" target="_blank">
+              <img src="images/ld.svg" alt="">
+            </a>
+          </div>
+          <div class="item">
+            <img class="team-photo" src="images/team5.jpg">
+            <div class="name">Kanat Tulbassiyev</div>
+            <div class="job">Blockchain Director</div>
+            <a class="ld-link" href="https://www.linkedin.com/in/kanat-tulbassiyev/" target="_blank">
+              <img src="images/ld.svg" alt="">
+            </a>
+          </div>
+          <div class="item">
+            <img class="team-photo" src="images/team6.jpg">
+            <div class="name">Ran Stivi</div>
+            <div class="job">Software Developer</div>
+            <a class="ld-link" href="https://www.linkedin.com/in/ran-stivi-a9959454/" target="_blank">
+              <img src="images/ld.svg" alt="">
+            </a>
+          </div>
+          <div class="item">
+            <img class="team-photo" src="images/team7.jpg">
+            <div class="name">Vinod Morkile</div>
+            <div class="job">Software Developer</div>
+            <a class="ld-link" href="https://www.linkedin.com/in/vinodmorkile/" target="_blank">
+              <img src="images/ld.svg" alt="">
+            </a>
+          </div>
+          <div class="item">
+            <img class="team-photo" src="images/team8.jpg">
+            <div class="name">Gal Zakay</div>
+            <div class="job">Software Developer</div>
+            <a class="ld-link" href="https://www.linkedin.com/in/gal-zakay-a6585b15b/" target="_blank">
+              <img src="images/ld.svg" alt="">
+            </a>
+          </div>
+          <div class="item">
+            <img class="team-photo" src="images/team9.jpg">
+            <div class="name">Raghuram Bala</div>
+            <div class="job">Lead Architect Advisor</div>
+            <a class="ld-link" href="https://www.linkedin.com/in/raghubala/" target="_blank">
+              <img src="images/ld.svg" alt="">
+            </a>
+          </div>
+          <div class="item">
+            <img class="team-photo" src="images/team10.jpg">
+            <div class="name">Snir Zano</div>
+            <div class="job">Investor Relations Advisor</div>
+            <a class="ld-link" href="https://www.linkedin.com/in/snir-zano-062641a4/" target="_blank">
+              <img src="images/ld.svg" alt="">
+            </a>
+          </div>
+          <div class="item">
+            <img class="team-photo" src="images/team11.jpg">
+            <div class="name">Ido Samuelson</div>
+            <div class="job">Blockchain Expert Advisor</div>
+            <a class="ld-link" href="https://www.linkedin.com/in/isamuelson/" target="_blank">
+              <img src="images/ld.svg" alt="">
+            </a>
+          </div>
+          <div class="item">
+            <img class="team-photo" src="images/team12.jpg">
+            <div class="name">Danny Coddy</div>
+            <div class="job">Appraisal Expert Advisor</div>
+          </div>
+          <div class="item">
+            <img class="team-photo" src="images/team13.jpg">
+            <div class="name">Yoram Uzan</div>
+            <div class="job">Real Estate Entrepreneur Advisor</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="gray-block block4">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <div class="block-header">Our Partners</div>
+        </div>
+        <div class="partners-box col-xs-12">
+          <img src="images/partner1.png" alt="">
+          <img src="images/partner2.png" alt="">
+          <img src="images/partner3.png" alt="">
+          <img src="images/partner4.png" alt="">
+          <img src="images/partner5.png" alt="">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="gray-block roadmap">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <div class="block-header">Roadmap</div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="rodmap-outer-box col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 col-sm-12">
+          <div class="rodmap-box">
+            <img class="roadmap-img hidden-xs" src="images/roadmap.svg" alt="" />
+            <img class="roadmap-img hidden-lg hidden-md hidden-sm" src="images/roadmap-m.svg" alt="" />
+          </div>
+          <a class="viewMore" href=".rodmap-box">
+            <span class="passiveShown">view more</span>
+            <span class="activeShown">view less</span>
+          </a>
+        </div>
+      </div>
+      <!--  <div class="row">
+          <div class="col-sm-6">
+            <img src="images/hex-a.svg" alt="" class="hex">
+            <div class="date">Q4 2016</div>
+            <div class="event">The Homelend founders launch the project<br> with the incorporation of a new company</div>
+          </div>
+          <div class="right col-sm-6 col-lg-offset-6 col-md-offset-6 col-sm-offset-6">
+            <img src="images/hex.svg" alt="" class="hex">
+            <div class="date">Q1 2017</div>
+            <div class="event">The founders bootstrap the project with $1 million USD in contributions</div>
+          </div>
+          <div class="col-sm-6">
+            <img src="images/hex.svg" alt="" class="hex">
+            <div class="date">Q2 2017</div>
+            <div class="event">
+              A team of experts in technology and finance join the company. Design of the platform’s concept and architecture begins
+            </div>
+          </div>
+          <div class="right col-sm-6 col-lg-offset-6 col-md-offset-6 col-sm-offset-6">
+            <img src="images/hex.svg" alt="" class="hex">
+            <div class="date">Q3 2017</div>
+            <div class="event">A first MVP is completed, based on client-server infrastructure</div>
+          </div>
+          <div class="col-sm-6">
+            <img src="images/hex.svg" alt="" class="hex">
+            <div class="date">Q4 2017</div>
+            <div class="event">A second MVP is released, based on distributed ledger technology</div>
+          </div>
+          <div class="right col-sm-6 col-lg-offset-6 col-md-offset-6 col-sm-offset-6">
+            <img src="images/hex.svg" alt="" class="hex">
+            <div class="date">Q1 2018</div>
+            <div class="event">
+              • DMC Homelend AG is incorporated in Zug, Switzerland (aka 'Crypto Valley')<br>
+              • Business and technical whitepapers are completed<br>
+              • Token Generation Event (TGE) pre-sale phase begins
+            </div>
+          </div>
+          <div class="col-sm-6">
+            <img src="images/hex.svg" alt="" class="hex">
+            <div class="date">Q2 2018</div>
+            <div class="event">
+              • TGE Public crowdfunding will be conducted and completed<br>
+              • Additional technology and finance experts will join the company
+            </div>
+          </div>
+          <div class="right col-sm-6 col-lg-offset-6 col-md-offset-6 col-sm-offset-6">
+            <img src="images/hex.svg" alt="" class="hex">
+            <div class="date">Q3 2018</div>
+            <div class="event">
+              Homelend’s beta version will be completed and the token’s basic functionalities will be operational for early adopters, under the pure crowdfunding lending mechanism
+            </div>
+          </div>
+          <div class="col-sm-6">
+            <img src="images/hex.svg" alt="" class="hex">
+            <div class="date">Q4 2018</div>
+            <div class="event">
+              Development of beta versions for pooling and auction lending mechanisms will begin
+            </div>
+          </div>
+          <div class="right col-sm-6 col-lg-offset-6 col-md-offset-6 col-sm-offset-6">
+            <img src="images/hex.svg" alt="" class="hex">
+            <div class="date">Q1 2019</div>
+            <div class="event">
+              Homelend’s platform 1.0 version will be tested on the testnet - feedback with Quality Assurance (QA) team
+            </div>
+          </div>
+          <div class="col-sm-6">
+            <img src="images/hex.svg" alt="" class="hex">
+            <div class="date">Q2 2019</div>
+            <div class="event">
+              Development of smart agent for investment abilities in Homelend’s platform will begin
+            </div>
+          </div>
+          <div class="right col-sm-6 col-lg-offset-6 col-md-offset-6 col-sm-offset-6">
+            <img src="images/hex.svg" alt="" class="hex">
+            <div class="date">Q3 2019</div>
+            <div class="event">
+              Homelend’s platform will expand to new markets
+            </div>
+          </div>
+          <div class="final col-xs-12">
+            <img src="images/hex-full.svg" alt="">
+            <div class="date">2019</div>
+            <div class="event">Full Homelend platform<br> becomes operational</div>
+          </div>
+        </div> -->
+    </div>
+    <div class="two hexs">
+  </section>
+
+  <section class="accordeon">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <div class="block-header">FAQ</div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-6">
+          <div class="col-header">Homelend’s Solution</div>
+          <div class="acc-box">
+            <div class="acc">
+              <div class="acc-label">What is the Homelend platform?</div>
+              <div class="acc-text">
+                Homelend is a decentralized platform enabling the next generation of homebuyer mortgage financing. Homelend creates an interface
+                for direct interaction between borrowers, lenders and other parties involved in the mortgage value chain.
+                By doing so, it enables mortgage crowdfunding using a peer-to-peer model with the security, transparency
+                and automation provided by distributed ledger technology (DLT) and smart contracts.
+              </div>
+            </div>
+            <div class="acc">
+              <div class="acc-label">What advantage does Homelend offer the mortgage industry?</div>
+              <div class="acc-text">
+                As the financial industry is evolving into the digital age, the traditional mortgage lending industry still lags behind.
+                Homelend is developing a solution that, thanks to the security and immutability provided by blockchain technology,
+                enables investors to directly finance homebuyer mortgage loans. These loans are considered to be a very safe
+                investment with high returns.
+                <br> Furthermore, Homelend will generate a blockchain-based, consistent, digital and secure database that will
+                be accessible to every entity involved in the mortgage value chain, allowing all parties to avoid burdensome
+                paperwork and significantly shorten process times. Smart contracts will automatize several tasks and processes,
+                helping to reduce origination times, which currently last 50 days on average.
+              </div>
+            </div>
+            <div class="acc">
+              <div class="acc-label">How does the Homelend platform work?</div>
+              <div class="acc-text">
+                Homelend connects borrowers and lenders in a unique way, controlled by smart contracts, without involving middlemen. Borrowers
+                will apply for mortgage loans through Homelend’s platform. These applications will be assessed and pre-approved
+                (or not) with the help of artificial intelligence and machine learning technology. Then, individual lenders
+                will be able to fund pre-approved loans by buying “slices” of them. All processes will be controlled by smart
+                contract protocols, rather than by human beings
+              </div>
+            </div>
+            <div class="acc">
+              <div class="acc-label">What is Homelend’s business model?</div>
+              <div class="acc-text">
+                Homelend will generate revenues from origination gas and selling discount points, as is typically done in the mortgage industry.
+                All deposits will be completed in Homelend tokens (HMD).
+              </div>
+            </div>
+            <div class="acc">
+              <div class="acc-label">Why is Homelend is based on blockchain technology?</div>
+              <div class="acc-text">
+                Homelend’s network architecture is powered by blockchain technology and Ethereum smart contracts in order to assure that
+                all transactions are transparent, secured and trusted. All information gathered and generated in the process
+                of originating a mortgage loan is saved in a decentralized database maintained by all users. This means that
+                no one can manipulate the data or receive privilege on any transaction. ]
+                <br> In addition, blockchain technology increases liquidity for the lenders, enabling them to trade their investments
+                directly with one another.
+              </div>
+            </div>
+            <div class="acc">
+              <div class="acc-label">What does it mean that Homelend tokens are “utility tokens”?</div>
+              <div class="acc-text">
+                Utility tokens give access to a platform. Homelend tokens (HMD) are utility tokens that will serve as the fuel powering the
+                Homelend system.
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6">
+          <div class="col-header">The Homelend Token & Crowdsale</div>
+          <div class="acc-box">
+            <div class="acc">
+              <div class="acc-label">What is the functionality of HMD tokens?</div>
+              <div class="acc-text">
+                HMD tokens will be used for purchasing services and paying fees within the Homelend platform. This token is based on the
+                ERC-20 Ethereum standard.
+              </div>
+            </div>
+            <div class="acc">
+              <div class="acc-label">Who can participate in the Homelend Token Generation Event?</div>
+              <div class="acc-text">
+                Anyone shall be able to participate in the Homelend ICO crowdsale, with a minimum investment of $1,000 USD.
+              </div>
+            </div>
+            <div class="acc">
+              <div class="acc-label">When will the public stage take place?</div>
+              <div class="acc-text">
+                The public sale is expected to take place in June, 2018. We recommend subscribing to one of our channels in order to stay
+                informed about any changes regarding the date.
+              </div>
+            </div>
+            <div class="acc">
+              <div class="acc-label">Is there a KYC process involved?</div>
+              <div class="acc-text">
+                Yes. In order to take part in a pre-sale or ICO crowdsale, every investor must follow a detailed “Know Your Customer” (KYC)
+                procedure. Our primary goal is to ensure that our platform is trustworthy, transparent, and compliant. Therefore,
+                all participants must be registered and undergo full KYC.
+              </div>
+            </div>
+            <div class="acc">
+              <div class="acc-label">How and when will I receive my Homelend tokens?</div>
+              <div class="acc-text">
+                Homelend tokens will be delivered automatically to the wallet of your choice. The wallet must be ERC-20 compatible. As the
+                token sale will be on the Ethereum blockchain, you need an ETH address to store and manage tokens. Delivery
+                will take place at the end of the ICO.
+              </div>
+            </div>
+            <div class="acc">
+              <div class="acc-label">Why shouldn’t I send funds from an exchange account?</div>
+              <div class="acc-text">
+                Our smart contracts automatically send Homelend tokens to the address from which we received your ETH. Therefore, you must
+                have control of the address you send the ETH from. This means you must have the address’s private key. If
+                you do not have the private key, you will not receive the Homelend tokens.
+              </div>
+            </div>
+            <div class="acc">
+              <div class="acc-label">Under what legal framework does Homelend operate?</div>
+              <div class="acc-text">
+                DMC Homelend AG was incorporated in Zug, Switzerland, aka 'Crypto Valley'. The Initial Coin Offering (ICO) will be conducted
+                based on the guidelines and publication of the Swiss regulators.
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <div class="block-header">Contact Us</div>
+        </div>
+      </div>
+      <form id="contactForm">
+        <div class="row">
+          <div class="form-desc col-md-5">
+            Please leave us your contact information and our agents will be happy to contact you within 24 hours
+          </div>
+          <div class="col-md-5">
+            <input type="text" name="name" id="nameContact" placeholder="Full Name">
+            <input type="text" name="email" id="emailContact" placeholder="Email">
+          </div>
+          <div class="col-md-2">
+            <input type="button" id="submitContact" value="send">
+          </div>
+        </div>
+      </form>
+      <div class="links-box row">
+        <div class="col-md-3">
+        </div>
+        <div class="col-md-3">
+          <a href="mailto:Contact@homelend.io" class="main-link">
+            <img src="images/f-icon2.svg" alt="">
+            <span>Contact@homelend.io</span>
+          </a>
+        </div>
+        <div class="col-md-3">
+          <a href="tel:+972504623042" class="main-link">
+            <img src="images/f-icon3.svg" alt="">
+            <span>+972 50 462 3042 </span>
+          </a>
+        </div>
+        <div class="social-links col-md-3">
+          <a href="https://twitter.com/HomelendHMD" target="_blank">
+            <img src="images/twitter-logo.svg" alt="">
+          </a>
+          <a href="https://t.me/HomelendPlatform" target="_blank">
+            <img src="images/telegram-logo.svg" alt="">
+          </a>
+          <a href="https://medium.com/@homelend" target="_blank">
+            <img src="images/m-logo.svg" alt="">
+          </a>
+          <a href="#" target="_blank">
+            <img src="images/reddit-logo.svg" alt="">
+          </a>
+          <a href="#" target="_blank">
+            <img src="images/git-logo.svg" alt="">
+          </a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <div class="prMenu"></div>
+
+  <script src="http://www.youtube.com/iframe_api"></script>
+  <!-- jQuery -->
+  <script src="js/jquery-2.2.4.min.js"></script>
+  <!-- Validation -->
+  <script src="js/validate.min.js"></script>
+  <!-- Owl Carousel -->
+  <script src="js/owl.carousel.min.js"></script>
+  <!-- Form Handlers -->
+  <script src="form/form.js"></script>
+  <!-- Main Script -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+  <script src="js/script.js"></script>
+</body>
+
+</html>
