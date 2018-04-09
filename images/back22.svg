@@ -1,75 +1,352 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="&#x421;&#x43B;&#x43E;&#x439;_1"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 643.895 516.168"
-	 style="enable-background:new 0 0 643.895 516.168;" xml:space="preserve">
-<g style="opacity:0.51;">
-	<g style="opacity:0.6;">
-		<path style="fill:#FFFFFF;" d="M347.285,3.804l27.138,15.665v31.334l-27.138,15.667l-27.141-15.667V19.47L347.285,3.804
-			 M347.285,0L316.85,17.567v35.139l30.435,17.569l30.432-17.569V17.567L347.285,0L347.285,0z"/>
+<svg version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" viewBox="-30 -20 690 575">
+	<defs>
+		<style>
+			.fade1 {
+				animation-name: fade1;
+				animation-timing-function: linear;
+				animation-iteration-count: infinite;
+				animation-duration: 17s;
+			}
+			@keyframes fade1 {
+			  0% {
+			    opacity: 0.3;
+			  }
+			  36% {
+			    opacity: .4;
+			  }
+			  60% {
+			    opacity: .5;
+			  }
+			  90% {
+			    opacity: .6;
+			  }
+			  100% {
+			    opacity: 0.3;
+			  }
+			}
+			.fade2 {
+				animation-name: fade2;
+				animation-timing-function: linear;
+				animation-iteration-count: infinite;
+				animation-duration: 21s;
+			}
+			@keyframes fade2 {
+			  0% {
+			    opacity: 0.6;
+			  }
+			  36% {
+			    opacity: .4;
+			  }
+			  60% {
+			    opacity: .75;
+			  }
+			  90% {
+			    opacity: .2;
+			  }
+			  100% {
+			    opacity: 0.6;
+			  }
+			}
+			.fade3 {
+				animation-name: fade3;
+				animation-timing-function: linear;
+				animation-iteration-count: infinite;
+				animation-duration: 26s;
+			}
+			@keyframes fade3 {
+			  0% {
+			    opacity: 0.5;
+			  }
+			  36% {
+			    opacity: .4;
+			  }
+			  60% {
+			    opacity: .72;
+			  }
+			  90% {
+			    opacity: .6;
+			  }
+			  100% {
+			    opacity: 0.5;
+			  }
+			}
+			.trans11,
+			.trans12,
+			.trans13,
+			.trans14,
+			.trans15,
+			.trans16,
+			.trans17,
+			.trans18,
+			.trans19 {
+				animation-name: trans1;
+				animation-iteration-count: infinite;
+			}
+			.trans11 {
+				animation-delay: 2s;
+				animation-timing-function: linear;
+				animation-duration: 10s;
+			}
+			.trans12 {
+				animation-timing-function: ease-in-out;
+				animation-duration: 13s;
+			}
+			.trans13 {
+				animation-delay: 3s;
+				animation-timing-function: ease-out;
+				animation-duration: 17s;
+			}
+			.trans14 {
+				animation-timing-function: ease-in;
+				animation-duration: 19s;
+			}
+			.trans15 {
+				animation-delay: 5s;
+				animation-timing-function: ease-in-out;
+				animation-duration: 21s;
+			}
+			.trans16 {
+				animation-timing-function: ease-in;
+				animation-duration: 25s;
+			}
+			.trans17 {
+				animation-delay: 6s;
+				animation-timing-function: ease-out;
+				animation-duration: 28s;
+			}
+			.trans18 {
+				animation-timing-function: ease-in;
+				animation-duration: 31s;
+			}
+			.trans19 {
+				animation-timing-function: ease-in-out;
+				animation-duration: 37s;
+			}
+			@keyframes trans1 {
+			  0% {
+			    transform: translate(0);
+			  }
+			  15% {
+			    transform: translate(-5px, 18px);
+			  }
+			  30% {
+			    transform: translate(12px, 10px);
+			  }
+			  45% {
+			    transform: translate(20px, -9px);
+			  }
+			  60% {
+			    transform: translate(22px, 3px);
+			  }
+			  75% {
+			    transform: translate(2px, 16px);
+			  }
+			  90% {
+			    transform: translate(12px, -16px);
+			  }
+			  100% {
+			    transform: translateX(0);
+			  }
+			}
+			.trans21,
+			.trans22,
+			.trans23,
+			.trans24,
+			.trans25,
+			.trans26,
+			.trans27,
+			.trans28,
+			.trans29 {
+				animation-name: trans2;
+				animation-iteration-count: infinite;
+			}
+			.trans21 {
+				animation-delay: 8s;
+				animation-timing-function: linear;
+				animation-duration: 9s;
+			}
+			.trans22 {
+				animation-timing-function: ease-in-out;
+				animation-duration: 11s;
+			}
+			.trans23 {
+				animation-delay: 9s;
+				animation-timing-function: ease-out;
+				animation-duration: 17s;
+			}
+			.trans24 {
+				animation-timing-function: ease-in;
+				animation-duration: 20s;
+			}
+			.trans25 {
+				animation-delay: 5s;
+				animation-timing-function: ease-in-out;
+				animation-duration: 23s;
+			}
+			.trans26 {
+				animation-timing-function: ease-in;
+				animation-duration: 25s;
+			}
+			.trans27 {
+				animation-delay: 2s;
+				animation-delay: 6s;
+				animation-timing-function: ease-out;
+				animation-duration: 28s;
+			}
+			.trans28 {
+				animation-timing-function: ease-in;
+				animation-duration: 32s;
+			}
+			.trans29 {
+				animation-delay: 1s;
+				animation-timing-function: ease-in-out;
+				animation-duration: 41s;
+			}
+			@keyframes trans2 {
+			  0% {
+			    transform: translate(0);
+			  }
+			  15% {
+			    transform: translate(12px, 10px);
+			  }
+			  30% {
+			    transform: translate(-5px, 18px);
+			  }
+			  45% {
+			    transform: translate(-8px, 9px);
+			  }
+			  60% {
+			    transform: translate(12px, 10px);
+			  }
+			  75% {
+			    transform: translate(2px, -16px);
+			  }
+			  90% {
+			    transform: translate(-12px, 16px);
+			  }
+			  100% {
+			    transform: translateX(0);
+			  }
+			}
+			.trans31,
+			.trans32,
+			.trans33,
+			.trans34,
+			.trans35,
+			.trans36,
+			.trans37,
+			.trans38,
+			.trans39 {
+				animation-name: trans2;
+				animation-iteration-count: infinite;
+			}
+			.trans31 {
+				animation-delay: 8s;
+				animation-timing-function: linear;
+				animation-duration: 9s;
+			}
+			.trans32 {
+				animation-timing-function: ease-in-out;
+				animation-duration: 12s;
+			}
+			.trans33 {
+				animation-delay: 9s;
+				animation-timing-function: ease-out;
+				animation-duration: 17s;
+			}
+			.trans34 {
+				animation-delay: 5s;
+				animation-timing-function: ease-in;
+				animation-duration: 10s;
+			}
+			.trans35 {
+				animation-delay: 4s;
+				animation-timing-function: ease-in-out;
+				animation-duration: 21s;
+			}
+			.trans36 {
+				animation-timing-function: ease-in;
+				animation-duration: 24s;
+			}
+			.trans37 {
+				animation-delay: 1s;
+				animation-delay: 6s;
+				animation-timing-function: ease-out;
+				animation-duration: 35s;
+			}
+			.trans38 {
+				animation-timing-function: ease-in;
+				animation-duration: 37s;
+			}
+			.trans39 {
+				animation-delay: 1s;
+				animation-timing-function: ease-in-out;
+				animation-duration: 41s;
+			}
+			@keyframes trans3 {
+			  0% {
+			    transform: translate(0);
+			  }
+			  15% {
+			    transform: translate(-8px, 10px);
+			  }
+			  30% {
+			    transform: translate(15px, 16px);
+			  }
+			  45% {
+			    transform: translate(-5px, 9px);
+			  }
+			  60% {
+			    transform: translate(9px, 17px);
+			  }
+			  75% {
+			    transform: translate(12px, -15px);
+			  }
+			  90% {
+			    transform: translate(-3px, 15px);
+			  }
+			  100% {
+			    transform: translateX(0);
+			  }
+			}
+		</style>
+	</defs>
+
+	<g class="fade1">
+		<g class="trans38" style="fill:#FFFFFF;">
+			<path class="trans11" d="M347.285,3.804l27.138,15.665v31.334l-27.138,15.667l-27.141-15.667V19.47L347.285,3.804 M347.285,0L316.85,17.567v35.139l30.435,17.569l30.432-17.569V17.567L347.285,0L347.285,0z"/>
+		</g>
 	</g>
-	<polygon style="fill:#5C5C5C;" points="643.895,391.509 610.285,410.909 576.674,391.509 576.674,352.703 610.285,333.301 
-		643.895,352.703 	"/>
-	<polygon style="fill:#5C5C5C;" points="291.955,158.727 265.838,173.809 239.718,158.727 239.718,128.569 265.838,113.486 
-		291.955,128.569 	"/>
-	<polygon style="fill:#5C5C5C;" points="350.26,500.66 323.397,516.168 296.529,500.66 296.529,469.64 323.397,454.132 
-		350.26,469.64 	"/>
-	<polygon style="fill:#5C5C5C;" points="193.306,352.187 127.98,389.907 62.639,352.187 62.639,276.748 127.98,239.028 
-		193.306,276.748 	"/>
-	<g>
-		<path style="fill:#5C5C5C;" d="M75.015,55.369l42.322,24.436v48.863l-42.322,24.435l-42.326-24.435V79.806L75.015,55.369
-			 M75.015,49.437L27.552,76.839v54.795l47.462,27.401l47.459-27.401V76.839L75.015,49.437L75.015,49.437z"/>
+
+	<g class="fade1">
+		<g class="trans36" style="fill:#5C5C5C;">
+			<polygon class="trans12" points="643.895,391.509 610.285,410.909 576.674,391.509 576.674,352.703 610.285,333.301 643.895,352.703"/>
+			<polygon class="trans21" points="291.955,158.727 265.838,173.809 239.718,158.727 239.718,128.569 265.838,113.486 291.955,128.569"/>
+			<polygon class="trans13" points="350.26,500.66 323.397,516.168 296.529,500.66 296.529,469.64 323.397,454.132 350.26,469.64"/>
+			<polygon class="trans22" points="193.306,352.187 127.98,389.907 62.639,352.187 62.639,276.748 127.98,239.028 193.306,276.748"/>
+			<path class="trans31" d="M75.015,55.369l42.322,24.436v48.863l-42.322,24.435l-42.326-24.435V79.806L75.015,55.369 M75.015,49.437L27.552,76.839v54.795l47.462,27.401l47.459-27.401V76.839L75.015,49.437L75.015,49.437z"/>
+			<path class="trans23" d="M473.726,211.951l21.046,12.151v24.314l-21.046,12.152l-21.05-12.152v-24.314L473.726,211.951 M473.726,209l-23.607,13.628v27.264l23.607,13.628l23.604-13.628v-27.264L473.726,209L473.726,209z"/>
+			<path class="trans13" d="M67.905,374.939l37.319,21.553v43.11L67.905,461.16l-37.345-21.557v-43.11L67.905,374.939 M67.905,373.74l-38.384,22.153v44.309l38.384,22.157l38.359-22.157v-44.309L67.905,373.74L67.905,373.74z"/>
+			<path class="trans14" d="M559.851,259.353l45.686,26.381v52.758l-45.686,26.381l-45.697-26.381v-52.758L559.851,259.353
+				 M559.851,257.885l-46.967,27.114v54.227l46.967,27.114l46.956-27.114v-54.227L559.851,257.885L559.851,257.885z"/>
+			<g class="fade1 trans39">
+				<polygon class="trans24" points="168.748,222.543 141.806,238.093 114.865,222.543 114.865,191.432 141.806,175.876 168.748,191.432"/>
+				<polygon class="trans33" points="62.628,264.696 31.316,282.773 0,264.696 0,228.544 31.316,210.465 62.628,228.544"/>
+				<path class="trans15" d="M461.229,413.981l22.449,12.958v25.917l-22.449,12.96l-22.449-12.96v-25.917L461.229,413.981 M461.229,410.835l-25.173,14.531v29.062l25.173,14.533l25.172-14.533v-29.062L461.229,410.835L461.229,410.835z"/>
+				<path class="trans25" d="M294.156,181.607l70.159,40.509v81.016l-70.159,40.524l-70.174-40.524v-81.016L294.156,181.607 M294.156,179.353l-72.125,41.636v83.27l72.125,41.65l72.11-41.65v-83.27L294.156,179.353L294.156,179.353z"/>
+				<path class="trans16" d="M394.685,51.859l87.783,50.691v101.381l-87.783,50.688l-87.812-50.688V102.55L394.685,51.859
+				 M394.685,49.039l-90.255,52.102v104.201l90.255,52.098l90.225-52.098V101.141L394.685,49.039L394.685,49.039z"/>
+				<path class="trans34" d="M386.454,316.558l25.125,14.513v29.02l-25.125,14.509l-25.132-14.509v-29.02L386.454,316.558
+				M386.454,315.751l-25.831,14.916v29.826l25.831,14.912l25.824-14.912v-29.826L386.454,315.751L386.454,315.751z"/>
+			</g>
+		</g>
 	</g>
-	<polygon style="fill:#292929;" points="275.123,388.882 248.729,404.12 222.343,388.882 222.343,358.402 248.729,343.166 
-		275.123,358.402 	"/>
-	<g>
-		<path style="fill:#5C5C5C;" d="M473.726,211.951l21.046,12.151v24.314l-21.046,12.152l-21.05-12.152v-24.314L473.726,211.951
-			 M473.726,209l-23.607,13.628v27.264l23.607,13.628l23.604-13.628v-27.264L473.726,209L473.726,209z"/>
+
+	<g class="fade2">
+		<g class="trans37" style="opacity:0.5;fill:#292929;">
+			<polygon class="trans17" points="275.123,388.882 248.729,404.12 222.343,388.882 222.343,358.402 248.729,343.166 275.123,358.402"/>
+			<path class="trans26" d="M186.771,441.12l29.636,17.114v34.227l-29.636,17.114l-29.651-17.114v-34.227L186.771,441.12 M186.771,440.167l-30.476,17.591v35.178l30.476,17.592l30.461-17.592v-35.178L186.771,440.167L186.771,440.167z"/>
+		</g>
 	</g>
-	<polygon style="opacity:0.3;fill:#5C5C5C;" points="168.748,222.543 141.806,238.093 114.865,222.543 114.865,191.432 
-		141.806,175.876 168.748,191.432 	"/>
-	<polygon style="opacity:0.3;fill:#5C5C5C;" points="62.628,264.696 31.316,282.773 0,264.696 0,228.544 31.316,210.465 
-		62.628,228.544 	"/>
-	<g style="opacity:0.3;">
-		<path style="fill:#5C5C5C;" d="M461.229,413.981l22.449,12.958v25.917l-22.449,12.96l-22.449-12.96v-25.917L461.229,413.981
-			 M461.229,410.835l-25.173,14.531v29.062l25.173,14.533l25.172-14.533v-29.062L461.229,410.835L461.229,410.835z"/>
-	</g>
-	<g>
-		<path style="fill:#5C5C5C;" d="M67.905,374.939l37.319,21.553v43.11L67.905,461.16l-37.345-21.557v-43.11L67.905,374.939
-			 M67.905,373.74l-38.384,22.153v44.309l38.384,22.157l38.359-22.157v-44.309L67.905,373.74L67.905,373.74z"/>
-	</g>
-	<g>
-		<path style="fill:#5C5C5C;" d="M559.851,259.353l45.686,26.381v52.758l-45.686,26.381l-45.697-26.381v-52.758L559.851,259.353
-			 M559.851,257.885l-46.967,27.114v54.227l46.967,27.114l46.956-27.114v-54.227L559.851,257.885L559.851,257.885z"/>
-	</g>
-	<g>
-		<path style="fill:#292929;" d="M186.771,441.12l29.636,17.114v34.227l-29.636,17.114l-29.651-17.114v-34.227L186.771,441.12
-			 M186.771,440.167l-30.476,17.591v35.178l30.476,17.592l30.461-17.592v-35.178L186.771,440.167L186.771,440.167z"/>
-	</g>
-	<g>
-		<path style="fill:#5C5C5C;" d="M294.156,181.607l70.159,40.509v81.016l-70.159,40.524l-70.174-40.524v-81.016L294.156,181.607
-			 M294.156,179.353l-72.125,41.636v83.27l72.125,41.65l72.11-41.65v-83.27L294.156,179.353L294.156,179.353z"/>
-	</g>
-	<g style="opacity:0.3;">
-		<path style="fill:#5C5C5C;" d="M394.685,51.859l87.783,50.691v101.381l-87.783,50.688l-87.812-50.688V102.55L394.685,51.859
-			 M394.685,49.039l-90.255,52.102v104.201l90.255,52.098l90.225-52.098V101.141L394.685,49.039L394.685,49.039z"/>
-	</g>
-	<g style="opacity:0.3;">
-		<path style="fill:#5C5C5C;" d="M386.454,316.558l25.125,14.513v29.02l-25.125,14.509l-25.132-14.509v-29.02L386.454,316.558
-			 M386.454,315.751l-25.831,14.916v29.826l25.831,14.912l25.824-14.912v-29.826L386.454,315.751L386.454,315.751z"/>
-	</g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
 </svg>

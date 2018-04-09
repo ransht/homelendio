@@ -1,14 +1,210 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1"  xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 1920 1080">
+	<defs>
+		<style>
+			.trans1 {
+				animation-name: trans1;
+				animation-timing-function: linear;
+				animation-iteration-count: infinite;
+				animation-duration: 71s;
+			}
+			@keyframes trans1 {
+			  0% {
+			    transform: translate(0);
+			  }
+			  15% {
+			    transform: translate(-30px, 60px);
+			  }
+			  30% {
+			    transform: translate(30px, 70px);
+			  }
+			  45% {
+			    transform: translate(80px, -90px);
+			  }
+			  60% {
+			    transform: translate(225px, 30px);
+			  }
+			  75% {
+			    transform: translate(20px, 180px);
+			  }
+			  90% {
+			    transform: translate(120px, -160px);
+			  }
+			  100% {
+			    transform: translateX(0);
+			  }
+			}
+			.trans2 {
+				animation-name: trans2;
+				animation-timing-function: linear;
+				animation-iteration-count: infinite;
+				animation-duration: 77s;
+			}
+			@keyframes trans2 {
+			  0% {
+			    transform: translate(0);
+			  }
+			  15% {
+			    transform: translate(-50px, -70px);
+			  }
+			  30% {
+			    transform: translate(-30px, 50px);
+			  }
+			  45% {
+			    transform: translate(-50px, -50px);
+			  }
+			  60% {
+			    transform: translate(200px, 50px);
+			  }
+			  75% {
+			    transform: translate(-10px, 150px);
+			  }
+			  90% {
+			    transform: translate(100px, -150px);
+			  }
+			  100% {
+			    transform: translateX(0);
+			  }
+			}
+			.trans3 {
+				animation-name: trans3;
+				animation-timing-function: linear;
+				animation-iteration-count: infinite;
+				animation-duration: 88s;
+			}
+			@keyframes trans3 {
+			  0% {
+			    transform: translate(0);
+			  }
+			  15% {
+			    transform: translate(50px, 40px);
+			  }
+			  30% {
+			    transform: translate(-5px, 60px);
+			  }
+			  45% {
+			    transform: translate(50px, -30px);
+			  }
+			  60% {
+			    transform: translate(300px, 10px);
+			  }
+			  75% {
+			    transform: translate(-100px, -100px);
+			  }
+			  90% {
+			    transform: translate(50px, -150px);
+			  }
+			  100% {
+			    transform: translateX(0);
+			  }
+			}
+
+			.poly1,
+			.poly2,
+			.poly3 {
+				fill:none;
+				stroke:#49BACE;
+				animation-timing-function: linear;
+				animation-iteration-count: infinite;
+				animation-duration: 20s;
+			}
+
+			.poly1 {
+				animation-name: poly1;
+			}
+			@keyframes poly1 {
+			  0% {
+			    transform: translate(0);
+			  }
+			  10% {
+			    transform: translate(-42px, 27px);
+			  }
+			  20% {
+			    transform: translate(-42px, 76px);
+			  }
+			  70% {
+			    transform: translate(-42px, 76px);
+			  }
+			  80% {
+			    transform: translate(-42px, 27px);
+			  }
+			  90% {
+			    transform: translateX(0);
+			  }
+			  100% {
+			    transform: translateX(0);
+			  }
+			}
+
+			.poly2 {
+				animation-name: poly2;
+			}
+			@keyframes poly2 {
+			  0% {
+			    transform: translate(0);
+			  }
+			  20% {
+			    transform: translate(0);
+			  }
+			  30% {
+			    transform: translate(0);
+			  }
+			  50% {
+			    transform: translate(84px, -53px);
+			  }
+			  60% {
+			    transform: translate(84px, 0px);
+			  }
+			  80% {
+			    transform: translate(84px, 0px);
+			  }
+			  90% {
+			    transform: translate(84px, -53px);
+			  }
+			  100% {
+			    transform: translateX(0);
+			  }
+			}
+
+			.poly3 {
+				animation-name: poly3;
+			}
+			@keyframes poly3 {
+			  0% {
+			    transform: translate(0);
+			  }
+			  20% {
+			    transform: translate(0);
+			  }
+			  30% {
+			    transform: translate(-42px, 25px);
+			  }
+			  40% {
+			    transform: translate(-42px, 76px);
+			  }
+			  70% {
+			    transform: translate(-42px, 76px);
+			  }
+			  80% {
+			    transform: translate(-42px, 27px);
+			  }
+			  90% {
+			    transform: translate(0);
+			  }
+			  100% {
+			    transform: translateX(0);
+			  }
+			}
+			
+		</style>
+	</defs>
 <g>
-	<path style="fill:#49BACE;" d="M1450,1086.619v-49.295l-42.543-24.708l-42.478,24.67l-42.7-24.67l-42.674,24.67L1237,1012.622
+	<path style="fill:#49BACE;" d="M1450,1086.619 v-49.295 l-42.543-24.708 l-42.478,24.67 l-42.7-24.67 l-42.674,24.67 L1237,1012.622
 		v-49.294l-42.791-24.708l-42.727,24.669L1109,938.624V889.33l-43-24.708V815.65l-42.998-24.709L980,815.649v49.361l-42.539,24.599
 		l-42.663-24.67L852,889.646v49.361l-42.631,24.6l-42.754-24.67l-42.781,24.67l-42.832-24.671L638,963.644v49.36l-42.443,24.598
 		L553,1012.937v-49.293l-42.756-24.709l-42.689,24.671l-42.734-24.671l-42.737,24.671l-42.744-24.671l-42.759,24.669l-42.787-24.669
-		l-42.844,24.669L168,938.941v-49.294l-42.553-24.708l-42.486,24.67l-42.697-24.67l-42.668,24.67l-40.492-23.447
-		c-0.24,2.575,14.382,227.034,14.382,227.034c21.513,4.618,247.905,12.331,333.977,9.499c69.488-2.286,139.072-0.856,208.465,3.292
-		c73.807,4.413,147.323,11.381,221.263,13.751c160.574,5.146,321.208-0.275,481.813,0.316
-		C1423.08,1120.812,1450,1086.619,1450,1086.619z"/>
+		l-42.844,24.669L168,938.941v-49.294l-42.553-24.708l-42.486,24.67l-42.697-24.67l-42.668,24.67l-40.492-23.447 v2000 h2005 v-1785
+		z"/>
 	<polygon style="fill:#49BACE;" points="1536,1037.483 1536,1086.899 1493,1111.607 1450,1086.899 1450,1037.483 1493,1012.775 	"/>
 	<polygon style="fill:#49BACE;" points="1622,1037.483 1622,1086.899 1579,1111.607 1536,1086.899 1536,1037.483 1579,1012.775 	"/>
 	<polygon style="fill:#49BACE;" points="1707,1038.483 1707,1087.899 1664,1112.607 1621,1087.899 1621,1038.483 1664,1013.775 	"/>
@@ -20,18 +216,15 @@
 		1791.997,939.642 	"/>
 	<polygon style="fill:#49BACE;" points="1963,1038.483 1963,1087.899 1920.5,1112.607 1878,1087.899 1878,1038.483 1920.5,1013.774 
 			"/>
-	<polygon style="fill:none;stroke:#49BACE;stroke-miterlimit:10;" points="680.5,889.021 680.5,938.438 638,963.146 595.5,938.438 
-		595.5,889.021 638,864.313 	"/>
-	<polygon style="fill:none;stroke:#49BACE;stroke-miterlimit:10;" points="766.5,889.021 766.5,938.438 723.5,963.146 
-		680.5,938.438 680.5,889.021 723.5,864.313 	"/>
-	<polygon style="fill:none;stroke:#49BACE;stroke-miterlimit:10;" points="723.5,814.402 723.5,863.82 681,888.528 638.5,863.82 
-		638.5,814.402 681,789.694 	"/>
-	<polygon style="fill:none;stroke:#49BACE;stroke-miterlimit:10;" points="44.5,595.729 44.5,645.147 2,669.855 -40.5,645.147 
-		-40.5,595.729 2,571.021 	"/>
-	<polygon style="fill:none;stroke:#49BACE;stroke-miterlimit:10;" points="221.258,271.727 221.258,321.145 178.758,345.853 
-		136.258,321.145 136.258,271.727 178.758,247.019 	"/>
-	<polygon style="fill:none;stroke:#49BACE;stroke-miterlimit:10;" points="1863.5,470.31 1863.5,519.727 1820.5,544.435 
-		1777.5,519.727 1777.5,470.31 1820.5,445.602 	"/>
+	<polygon class="poly1" points="680.5,889.021 680.5,938.438 638,963.146 595.5,938.438 595.5,889.021 638,864.313"/>
+	<polygon class="poly2" points="766.5,889.021 766.5,938.438 723.5,963.146 680.5,938.438 680.5,889.021 723.5,864.313"/>
+	<polygon class="poly3" points="723.5,814.402 723.5,863.82 681,888.528 638.5,863.82 638.5,814.402 681,789.694"/>
+	<polygon class="trans1" style="fill:none;stroke:#49BACE;" points="221.258,271.727 221.258,321.145 178.758,345.853 
+		136.258,321.145 136.258,271.727 178.758,247.019"/>
+	<polygon class="trans2" style="fill:none;stroke:#49BACE;" points="1843.5,470.31 1843.5,519.727 1800.5,544.435 
+		1757.5,519.727 1757.5,470.31 1800.5,445.602 	"/>
+	<polygon class="trans3" style="fill:none;stroke:#49BACE;" points="164.5,595.729 164.5,645.15 122,669.855 80.5,645.15 
+		80.5,595.73 122,571.02"/>
 </g>
 <g style="opacity:0.15;">
 	<polygon style="fill:none;stroke:#49BACE;stroke-width:0.5;stroke-miterlimit:10;" points="49.336,384.566 66.891,430.759 
