@@ -40,7 +40,7 @@ header .container {
 
 header .socials-box,
 header .top-buttons-box {
-	padding-top: 12px;
+	padding-top: 9px;
 }
 
 header .logo-box {
@@ -824,6 +824,70 @@ header .singup-form input[type='button'] {
 
 /* Team End */
 
+
+/* Press */
+
+.press {
+	padding: 100px 0;
+}
+
+.press .block-header {
+    position: relative;
+    padding-bottom: 120px;
+    width: 100%;
+    font-size: 3.2rem;
+    font-weight: 500;
+}
+
+.press .block-header:after {
+    position: absolute;
+    top: 0;
+    right: 15px;
+    display: block;
+    width: 2px;
+    height: 100px;
+    background: #000;
+    content: '';
+}
+
+.press .article-logo-box {
+	text-align: center;
+	padding-bottom: 40px;
+}
+
+.press .article-logo {
+	max-width: 100%;
+	max-height: 45px;
+}
+
+.press .article-header {
+	padding-bottom: 25px;
+	font-size: 2.6rem;
+	font-weight: 500;
+}
+
+.press .article-body {
+	min-height: 125px;
+	font-size: 2rem;
+}
+
+.press .article-link {
+	display: block;
+	padding-bottom: 20px;
+	width: 100%;
+	font-size: 2.6rem;
+	font-weight: 500;
+	text-transform: uppercase;
+	color: #4bcbd9;
+}
+
+.press .article-link:hover {
+	text-decoration: underline;
+}
+
+/* Press End*/
+
+
 /* Roadmap */
 
 .roadmap {
@@ -1468,6 +1532,7 @@ footer .social-links a img {
     .gray-block .block-header,
     .bbw .col-md-4 .block-header,
     .team .block-header,
+    .press .col-md-4 .block-header,
     .accordeon .col-md-4 .block-header,
     footer .col-md-4 .block-header {
     	padding-bottom: 80px;
@@ -1477,6 +1542,7 @@ footer .social-links a img {
     .gray-block .block-header:after,
     .bbw .col-md-4 .block-header:after,
     .team .block-header:after,
+    .press .col-md-4 .block-header:after,
     .accordeon .col-md-4 .block-header:after,
     footer .col-md-4 .block-header:after {
     	top: auto;
@@ -1569,8 +1635,26 @@ footer .social-links a img {
     	margin-bottom: 25px;
     }
 
+    .press {
+    	padding: 50px 0 0;
+    }
+
+    .press .article-header {
+    	text-align: center;
+    }
+
+    .press .article-body {
+    	min-height: auto;
+    	padding-bottom: 20px;
+    }
+
     .roadmap .block-header {
     	margin-bottom: 50px;
+    }
+
+    .press .article-link {
+    	padding-bottom: 50px;
+    	text-align: center;
     }
 
     .roadmap .viewMore {
@@ -1649,6 +1733,10 @@ footer .social-links a img {
 }
 
 @media only screen and (max-width: 479px) {
+
+	header .logo-box {
+		min-width: 125px;
+	}
 
 	header .top-buttons-box {
 	    padding-top: 4vw;
